@@ -34,3 +34,6 @@ texput.aux
 # Pytest & Caching
 .pytest_cache/
 .coverage
+
+# Isolated Infrastructure
+infra/vllm_env/
