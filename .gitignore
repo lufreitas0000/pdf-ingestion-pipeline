@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Data (Ignore contents but preserve structure via .gitkeep)
+data/01_raw/*
+!data/01_raw/.gitkeep
+data/02_segmented/*
+!data/02_segmented/.gitkeep
+data/03_stitched/*
+!data/03_stitched/.gitkeep
+data/04_verified/*
+!data/04_verified/.gitkeep
+data/05_assets/*
+!data/05_assets/.gitkeep
+data/06_final_md/*
+!data/06_final_md/.gitkeep
+data/07_final_tex/*
+!data/07_final_tex/.gitkeep
+
+# DVC Tracking
+.dvc/config.local
+/dvc.lock
+
+# LaTeX Compilation Artifacts
+texput.log
+texput.pdf
+texput.aux
+*.synctex.gz
+
+# Pytest & Caching
+.pytest_cache/
+.coverage
