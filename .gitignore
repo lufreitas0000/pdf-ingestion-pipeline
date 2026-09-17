@@ -37,3 +37,6 @@ texput.aux
 
 # Isolated Infrastructure
 infra/vllm_env/
+docs/execution.log
+docs/vllm.log
+*.log
