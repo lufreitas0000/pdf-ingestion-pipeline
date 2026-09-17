@@ -4,7 +4,6 @@ __pycache__/
 .venv/
 venv/
 .env
-
 # Data (Ignore contents but preserve structure via .gitkeep)
 data/01_raw/*
 !data/01_raw/.gitkeep
@@ -20,23 +19,28 @@ data/06_final_md/*
 !data/06_final_md/.gitkeep
 data/07_final_tex/*
 !data/07_final_tex/.gitkeep
-
 # DVC Tracking
 .dvc/config.local
 /dvc.lock
-
 # LaTeX Compilation Artifacts
 texput.log
 texput.pdf
 texput.aux
 *.synctex.gz
-
 # Pytest & Caching
 .pytest_cache/
 .coverage
-
 # Isolated Infrastructure
 infra/vllm_env/
 docs/execution.log
 docs/vllm.log
 *.log
+# Virtual Environments
+.venv/
+infra/vllm_env/
+env/
+venv/
+# OS and IDE artifacts
+.vscode/
+.DS_Store
+*.swp
