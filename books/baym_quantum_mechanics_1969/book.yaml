@@ -1,0 +1,20 @@
+book_id: baym_quantum_mechanics_1969
+title: "Lectures on Quantum Mechanics"
+author_last: "Baym"
+author_full: "Gordon Baym"
+year: 1969
+edition: "3rd printing with corrections, 1974"
+topic: "quantum_mechanics"
+publisher: "W.A. Benjamin"
+isbn: ~
+source_pdf: "baym_qm_1969.pdf"
+stages:
+  ocr_chunk_size: 3        # pages per OCR chunk (memory-safe)
+  ocr_model: flash         # model tier for OCR/Stage1
+  stage3_model: flash      # model tier for MD verification
+  stage4_model: flash      # model tier for LaTeX conversion
+  figure_model: pro        # model tier for figure classification
+  parallel_subagents: 3    # max concurrent subagents
+  quota_threshold: 0.85    # suspend at 85% quota
+chapters: 23
+total_pages: ~600

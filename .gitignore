@@ -4,7 +4,28 @@ __pycache__/
 .venv/
 venv/
 .env
-# Data (Ignore contents but preserve structure via .gitkeep)
+
+# Books data (large binary + generated files — track metadata only)
+books/*/00_raw/*
+!books/*/00_raw/.gitkeep
+books/*/01_segmented/*
+!books/*/01_segmented/.gitkeep
+books/*/02_stitched/*
+!books/*/02_stitched/.gitkeep
+books/*/03_verified_md/*
+!books/*/03_verified_md/.gitkeep
+books/*/04_final_tex/*
+!books/*/04_final_tex/.gitkeep
+books/*/05_figures/*
+!books/*/05_figures/.gitkeep
+books/*/06_compiled/*.pdf
+books/*/06_compiled/*.aux
+books/*/06_compiled/*.toc
+books/*/06_compiled/*.out
+books/*/06_compiled/*.log
+books/*/06_compiled/*.synctex.gz
+
+# Legacy data dirs (now moved)
 data/01_raw/*
 !data/01_raw/.gitkeep
 data/02_segmented/*
@@ -19,27 +40,33 @@ data/06_final_md/*
 !data/06_final_md/.gitkeep
 data/07_final_tex/*
 !data/07_final_tex/.gitkeep
+
 # DVC Tracking
 .dvc/config.local
 /dvc.lock
+
 # LaTeX Compilation Artifacts
 texput.log
 texput.pdf
 texput.aux
 *.synctex.gz
+
 # Pytest & Caching
 .pytest_cache/
 .coverage
+
 # Isolated Infrastructure
 infra/vllm_env/
 docs/execution.log
 docs/vllm.log
 *.log
+
 # Virtual Environments
 .venv/
 infra/vllm_env/
 env/
 venv/
+
 # OS and IDE artifacts
 .vscode/
 .DS_Store

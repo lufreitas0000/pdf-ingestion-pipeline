@@ -1,0 +1,115 @@
+{
+  "_meta": {
+    "version": "1.1",
+    "description": "Structured OCR error catalog derived from ingesting Baym QM (1969) with surya-ocr-2. Use this for pre-processing regex fixes before agent verification.",
+    "source_book": "baym_quantum_mechanics_1969",
+    "ocr_engine": "marker-pdf (surya-ocr-2 backend)"
+  },
+  "systematic_substitutions": [
+    {
+      "pattern": "\\bin\\b(?=\\s*\\\\hbar)",
+      "replacement": "i\\\\hbar",
+      "type": "regex",
+      "description": "OCR reads 'iℏ' as 'in' — the vertical stroke of i and loop of ℏ merge",
+      "confidence": "high",
+      "false_positive_risk": "low",
+      "example_wrong": "in\\hbar \\partial_t",
+      "example_correct": "i\\hbar \\partial_t"
+    },
+    {
+      "pattern": "7r(?=[^a-zA-Z])",
+      "replacement": "\\\\pi",
+      "type": "regex",
+      "description": "OCR reads π as '7r' — serif pi looks like numeral 7 followed by r",
+      "confidence": "high",
+      "false_positive_risk": "low",
+      "example_wrong": "7r/2",
+      "example_correct": "\\pi/2"
+    },
+    {
+      "pattern": "(?<=[0-9])®(?=[0-9])",
+      "replacement": "0",
+      "type": "regex",
+      "description": "OCR reads '0' (zero) in page numbers as '®' (registered trademark symbol)",
+      "confidence": "high",
+      "false_positive_risk": "very_low",
+      "example_wrong": "p. 18®",
+      "example_correct": "p. 180"
+    },
+    {
+      "pattern": "\\\\Schrodinger",
+      "replacement": "Schr\\\\\"odinger",
+      "type": "string",
+      "description": "Missing umlaut on Schrödinger",
+      "confidence": "high",
+      "false_positive_risk": "none"
+    },
+    {
+      "pattern": "(?<![a-zA-Z])l(?=[0-9])",
+      "replacement": "1",
+      "type": "regex",
+      "description": "OCR confuses lowercase l with numeral 1 at start of numbers",
+      "confidence": "medium",
+      "false_positive_risk": "medium",
+      "note": "Context-dependent! Only safe in equation environments. In text, 'l' can be quantum number ell."
+    },
+    {
+      "pattern": "\\bVz\\b",
+      "replacement": "1/2",
+      "type": "string",
+      "description": "OCR reads '1/2' as 'Vz' — common in spin-1/2 chapter titles",
+      "confidence": "high",
+      "false_positive_risk": "low",
+      "example_wrong": "Spin Vz Particles",
+      "example_correct": "Spin 1/2 Particles"
+    },
+    {
+      "pattern": "\\bBom\\b",
+      "replacement": "Born",
+      "type": "string",
+      "description": "OCR drops 'r' from 'Born' (Born-Oppenheimer, Born approximation)",
+      "confidence": "high",
+      "false_positive_risk": "none"
+    },
+    {
+      "pattern": "coe[fŋ]cient",
+      "replacement": "coefficient",
+      "type": "regex",
+      "description": "OCR corrupts 'ff' ligature in 'coefficient'",
+      "confidence": "high",
+      "false_positive_risk": "none"
+    },
+    {
+      "pattern": "\\bHamil-\\s*tonian\\b",
+      "replacement": "Hamiltonian",
+      "type": "regex",
+      "description": "Hyphenated line breaks in OCR produce split words",
+      "confidence": "high",
+      "false_positive_risk": "none"
+    }
+  ],
+  "false_cognate_warnings": [
+    {
+      "pattern": "in\\b",
+      "warning": "Could be English preposition 'in' OR OCR error for 'i' (imaginary unit). Only replace when followed by \\hbar or math context.",
+      "strategy": "context_check"
+    },
+    {
+      "pattern": "l\\b",
+      "warning": "Could be quantum number ell (l=0,1,2...) OR numeral 1 OR letter l. Never auto-replace globally.",
+      "strategy": "equation_environment_only"
+    },
+    {
+      "pattern": "S\\b",
+      "warning": "Could be spin operator S, action S, entropy S, or Poynting vector S. Do not auto-replace.",
+      "strategy": "manual_review"
+    },
+    {
+      "pattern": "\\\\sigma",
+      "warning": "Could be Pauli matrix, cross section, conductivity, or spin label. Never globally replace.",
+      "strategy": "chapter_context"
+    }
+  ],
+  "apply_script": "scripts/stage3_fixer.py",
+  "apply_command": "python3 scripts/stage3_fixer.py books/{book_id}/03_verified_md/"
+}

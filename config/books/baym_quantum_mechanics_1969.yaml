@@ -1,0 +1,8 @@
+book_id: baym_quantum_mechanics_1969
+ocr_chunk_size: 3
+figure_density: medium
+preprocess_ocr_fixup: true
+ocr_cognates_file: config/ocr_cognates.json
+notation_file: config/notation.json
+style_guide_file: config/style_guide.yaml
+notation_overrides: {}

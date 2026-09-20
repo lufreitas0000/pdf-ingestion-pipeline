@@ -1,0 +1,72 @@
+# Figure Style Guide — Physics Textbook Pipeline
+# All reproduced figures must conform to these constants.
+# Referenced by skills/04_figure_enhancement/SKILL.md and all figure agents.
+
+colors:
+  primary:   "#2C3E50"   # Dark blue-grey — main data lines
+  secondary: "#E74C3C"   # Red — highlight, critical features
+  tertiary:  "#3498DB"   # Blue — secondary curves
+  quaternary: "#27AE60"  # Green — third curve or fill
+  neutral:   "#95A5A6"   # Grey — axes, grid, annotations
+  background: "white"
+  # Extended palette for multi-line plots (up to 6 distinguishable)
+  palette:
+    - "#2C3E50"
+    - "#E74C3C"
+    - "#3498DB"
+    - "#27AE60"
+    - "#9B59B6"
+    - "#F39C12"
+
+typography:
+  font_family: "serif"        # matches LaTeX Computer Modern
+  latex_font_command: "\\usepackage{lmodern}"
+  axis_label_size: 12         # pt
+  tick_label_size: 10
+  legend_size: 10
+  title_size: 13
+  annotation_size: 9
+  use_latex_rendering: true   # text.usetex = True when available
+
+lines:
+  main_linewidth: 1.5         # pt — primary data
+  secondary_linewidth: 1.0    # pt — secondary data / reference lines
+  axis_linewidth: 0.8         # pt — spines
+  grid_linewidth: 0.4
+  grid_alpha: 0.3
+  grid_style: "--"            # dashed grid
+  marker_size: 4.0
+  marker_edge_width: 0.5
+
+figure:
+  dpi: 300                    # for PNG export
+  dpi_screen: 96              # for preview
+  width_single_column: 3.5    # inches (fits LaTeX \textwidth/2)
+  width_double_column: 7.0    # inches (fits LaTeX \textwidth)
+  height_default: 2.8         # inches
+  height_tall: 4.2            # for tall figures (e.g., Bloch sphere)
+  tight_layout: true
+  bbox_inches: "tight"
+  pad_inches: 0.05
+
+tikz:
+  scale: "1.0"
+  node_font: "\\small"
+  tick_font: "\\footnotesize"
+  arrow_tip: "Stealth"         # from arrows.meta library
+  default_draw: "primary"      # = #2C3E50
+  default_fill: "primary!10"   # 10% fill of primary
+
+export_formats:
+  preferred: "pdf"             # vector — for LaTeX \includegraphics
+  fallback: "png"              # raster backup at 300 DPI
+  tikz: "tex"                  # embed as \input{} in LaTeX
+
+# When to keep original raster (do not attempt to reproduce):
+keep_raster_criteria:
+  - "photograph or micrograph"
+  - "crystal structure from diffraction"
+  - "SEM or TEM image"
+  - "color photograph of experimental apparatus"
+  - "complex 3D molecular rendering"
+  - "scanned historical diagram with handwritten annotations"

@@ -1,0 +1,128 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "description": "Canonical physics notation table. Used by notation_upgrade agent and LaTeX macro preamble.",
+    "last_updated": "2026-09-20",
+    "books_applied": ["baym_quantum_mechanics_1969"]
+  },
+  "macros_preamble": [
+    "\\newcommand{\\ket}[1]{|#1\\rangle}",
+    "\\newcommand{\\bra}[1]{\\langle #1|}",
+    "\\newcommand{\\braket}[2]{\\langle #1|#2\\rangle}",
+    "\\newcommand{\\ev}[2][\\psi]{\\langle #1|#2|#1\\rangle}",
+    "\\newcommand{\\comm}[2]{[#1,\\,#2]}",
+    "\\newcommand{\\acomm}[2]{\\{#1,\\,#2\\}}",
+    "\\newcommand{\\dd}{\\mathrm{d}}",
+    "\\newcommand{\\ii}{\\mathrm{i}}",
+    "\\newcommand{\\ee}{\\mathrm{e}}",
+    "\\newcommand{\\tr}{\\operatorname{Tr}}",
+    "\\newcommand{\\op}[1]{\\hat{#1}}",
+    "\\newcommand{\\abs}[1]{\\left|#1\\right|}",
+    "\\newcommand{\\norm}[1]{\\left\\|#1\\right\\|}",
+    "\\newcommand{\\slashed}[1]{#1\\!\\!\\!/}"
+  ],
+  "operators": [
+    {
+      "symbol": "H",
+      "legacy": "H",
+      "modern": "\\hat{H}",
+      "description": "Hamiltonian operator",
+      "context_hints": ["energy", "eigenvalue equation", "time evolution"],
+      "false_positives": ["magnetic field intensity H", "Hilbert space", "enthalpy"]
+    },
+    {
+      "symbol": "p",
+      "legacy": "p",
+      "modern": "\\hat{p}",
+      "description": "Momentum operator",
+      "context_hints": ["momentum operator", "-i\\hbar\\nabla", "commutator"],
+      "false_positives": ["classical momentum eigenvalue", "probability p", "proton p"]
+    },
+    {
+      "symbol": "L",
+      "legacy": "L",
+      "modern": "\\hat{L}",
+      "description": "Angular momentum operator",
+      "context_hints": ["angular momentum", "orbital", "rotation"],
+      "false_positives": ["Lagrangian L", "inductance L", "quantum number l"]
+    },
+    {
+      "symbol": "a_dagger",
+      "legacy": "a^+",
+      "modern": "\\hat{a}^\\dagger",
+      "description": "Creation operator",
+      "context_hints": ["creation", "raise", "ladder"],
+      "false_positives": []
+    },
+    {
+      "symbol": "rho",
+      "legacy": "\\rho",
+      "modern": "\\hat{\\rho}",
+      "description": "Density matrix operator",
+      "context_hints": ["density matrix", "mixed state", "trace"],
+      "false_positives": ["charge density \\rho(r)", "resistivity"]
+    }
+  ],
+  "states": [
+    {
+      "legacy": "|\\psi\\rangle",
+      "modern": "\\ket{\\psi}",
+      "description": "Ket vector"
+    },
+    {
+      "legacy": "\\langle\\psi|",
+      "modern": "\\bra{\\psi}",
+      "description": "Bra vector"
+    },
+    {
+      "legacy": "\\langle\\phi|\\psi\\rangle",
+      "modern": "\\braket{\\phi}{\\psi}",
+      "description": "Inner product / amplitude"
+    }
+  ],
+  "differentials": [
+    {
+      "legacy": "dx",
+      "modern": "\\dd x",
+      "description": "Differential measure — upright d",
+      "note": "Apply in integrals: \\int f(x)\\, \\dd x"
+    },
+    {
+      "legacy": "d^3r",
+      "modern": "\\dd^3 r",
+      "description": "3D volume element"
+    },
+    {
+      "legacy": "d\\Omega",
+      "modern": "\\dd\\Omega",
+      "description": "Solid angle element"
+    }
+  ],
+  "constants_and_functions": [
+    {
+      "symbol": "hbar",
+      "standard": "\\hbar",
+      "note": "Already standard — no change needed"
+    },
+    {
+      "symbol": "imaginary_unit",
+      "legacy": "i",
+      "modern": "\\ii",
+      "note": "Use \\ii only when explicitly distinguishing from index i. In most QM contexts, bare i is acceptable and conventional."
+    }
+  ],
+  "context_dependent_warnings": [
+    {
+      "symbol": "\\sigma",
+      "can_mean": ["Pauli matrices", "spin index", "cross section", "electrical conductivity", "surface charge"]
+    },
+    {
+      "symbol": "G",
+      "can_mean": ["Green's function", "gravitational constant", "Gibbs free energy"]
+    },
+    {
+      "symbol": "\\chi",
+      "can_mean": ["susceptibility", "characteristic function", "spinor component"]
+    }
+  ]
+}
