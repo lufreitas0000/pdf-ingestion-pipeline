@@ -183,3 +183,4 @@ if estimated_tokens / quota_limit > 0.85:
 | Chapter chunks | `{chNN}_{TITLE}.md/.tex` | `03_05_THE_FREE_PARTICLE.tex` |
 | Compiled master | `{book_id}.tex/.pdf` | `baym_qm_1969.tex` |
 | Figures | `fig_{page}_{block_id}.png` | `fig_042_p_b3.png` |
+

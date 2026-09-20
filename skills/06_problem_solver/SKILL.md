@@ -76,7 +76,7 @@ The Solver Agent writes the solution in this exact structure:
 
 ```markdown
 ## Problem Restatement
-[Self-contained rewrite of the problem. No pronouns like "Problem 3 above". 
+[Self-contained rewrite of the problem. No pronouns like "Problem 3 above".
  Include all needed definitions.]
 
 ## Prerequisites
@@ -114,7 +114,7 @@ $$
 ### Directives for Solver Agent
 - **Never skip steps** — every algebraic move must be justified in one sentence
 - **Use canonical notation** — consult `config/notation.json`
-- **Mark confidence**: add `<!-- CONFIDENT -->`, `<!-- UNCERTAIN -->`, or `<!-- SKIPPED -->` 
+- **Mark confidence**: add `<!-- CONFIDENT -->`, `<!-- UNCERTAIN -->`, or `<!-- SKIPPED -->`
   after each step
 - For problems that are **too hard to solve completely**: solve what you can,
   write partial steps, mark `status: partial` in the YAML front matter,
@@ -132,7 +132,7 @@ $$
 You are an adversarial physics reviewer. You are given a draft solution.
 Your task is to find errors. Check:
 
-1. SIGN ERRORS: Is every sign correct? Check esp. in commutators, 
+1. SIGN ERRORS: Is every sign correct? Check esp. in commutators,
    Hermitian conjugates, cross products.
 2. DROPPED CONSTANTS: Are ℏ, factors of 2, π consistently tracked?
 3. NORMALIZATION: Are states and operators properly normalized?
@@ -265,3 +265,4 @@ to stay under quota.
 
 **Difficulty triage**: Before running Solver (pro), have a flash agent score
 difficulty 1-5. Skip to `status: unsolved` for difficulty 5 unless requested.
+

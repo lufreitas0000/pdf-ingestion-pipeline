@@ -20,3 +20,4 @@ stages:
 chapters: ~0                    # approximate chapter count
 total_pages: ~0
 notation_overrides: []          # per-book notation exceptions (see config/notation.json)
+

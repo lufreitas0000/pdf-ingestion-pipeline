@@ -3,7 +3,9 @@
     "version": "1.0",
     "description": "Canonical physics notation table. Used by notation_upgrade agent and LaTeX macro preamble.",
     "last_updated": "2026-09-20",
-    "books_applied": ["baym_quantum_mechanics_1969"]
+    "books_applied": [
+      "baym_quantum_mechanics_1969"
+    ]
   },
   "macros_preamble": [
     "\\newcommand{\\ket}[1]{|#1\\rangle}",
@@ -27,31 +29,59 @@
       "legacy": "H",
       "modern": "\\hat{H}",
       "description": "Hamiltonian operator",
-      "context_hints": ["energy", "eigenvalue equation", "time evolution"],
-      "false_positives": ["magnetic field intensity H", "Hilbert space", "enthalpy"]
+      "context_hints": [
+        "energy",
+        "eigenvalue equation",
+        "time evolution"
+      ],
+      "false_positives": [
+        "magnetic field intensity H",
+        "Hilbert space",
+        "enthalpy"
+      ]
     },
     {
       "symbol": "p",
       "legacy": "p",
       "modern": "\\hat{p}",
       "description": "Momentum operator",
-      "context_hints": ["momentum operator", "-i\\hbar\\nabla", "commutator"],
-      "false_positives": ["classical momentum eigenvalue", "probability p", "proton p"]
+      "context_hints": [
+        "momentum operator",
+        "-i\\hbar\\nabla",
+        "commutator"
+      ],
+      "false_positives": [
+        "classical momentum eigenvalue",
+        "probability p",
+        "proton p"
+      ]
     },
     {
       "symbol": "L",
       "legacy": "L",
       "modern": "\\hat{L}",
       "description": "Angular momentum operator",
-      "context_hints": ["angular momentum", "orbital", "rotation"],
-      "false_positives": ["Lagrangian L", "inductance L", "quantum number l"]
+      "context_hints": [
+        "angular momentum",
+        "orbital",
+        "rotation"
+      ],
+      "false_positives": [
+        "Lagrangian L",
+        "inductance L",
+        "quantum number l"
+      ]
     },
     {
       "symbol": "a_dagger",
       "legacy": "a^+",
       "modern": "\\hat{a}^\\dagger",
       "description": "Creation operator",
-      "context_hints": ["creation", "raise", "ladder"],
+      "context_hints": [
+        "creation",
+        "raise",
+        "ladder"
+      ],
       "false_positives": []
     },
     {
@@ -59,8 +89,15 @@
       "legacy": "\\rho",
       "modern": "\\hat{\\rho}",
       "description": "Density matrix operator",
-      "context_hints": ["density matrix", "mixed state", "trace"],
-      "false_positives": ["charge density \\rho(r)", "resistivity"]
+      "context_hints": [
+        "density matrix",
+        "mixed state",
+        "trace"
+      ],
+      "false_positives": [
+        "charge density \\rho(r)",
+        "resistivity"
+      ]
     }
   ],
   "states": [
@@ -114,15 +151,29 @@
   "context_dependent_warnings": [
     {
       "symbol": "\\sigma",
-      "can_mean": ["Pauli matrices", "spin index", "cross section", "electrical conductivity", "surface charge"]
+      "can_mean": [
+        "Pauli matrices",
+        "spin index",
+        "cross section",
+        "electrical conductivity",
+        "surface charge"
+      ]
     },
     {
       "symbol": "G",
-      "can_mean": ["Green's function", "gravitational constant", "Gibbs free energy"]
+      "can_mean": [
+        "Green's function",
+        "gravitational constant",
+        "Gibbs free energy"
+      ]
     },
     {
       "symbol": "\\chi",
-      "can_mean": ["susceptibility", "characteristic function", "spinor component"]
+      "can_mean": [
+        "susceptibility",
+        "characteristic function",
+        "spinor component"
+      ]
     }
   ]
 }

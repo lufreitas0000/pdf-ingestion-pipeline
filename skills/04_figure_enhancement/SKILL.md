@@ -14,8 +14,8 @@ Raw figures extracted from OCR pipelines are raster PNGs — often low-resolutio
 
 ## Step 1: Figure Classification
 
-**Agent**: Figure Classifier (use `pro` model — requires vision)  
-**Input**: `books/{book_id}/05_figures/raw/*.png`  
+**Agent**: Figure Classifier (use `pro` model — requires vision)
+**Input**: `books/{book_id}/05_figures/raw/*.png`
 **Output**: `books/{book_id}/05_figures/figure_manifest.json`
 
 ### Classifier Prompt Template
@@ -165,3 +165,4 @@ The figure injection script is `scripts/inject_figures.py`.
 - [ ] Figure has `\caption{}` and `\label{}`
 - [ ] Compiles without errors with `pdflatex`
 - [ ] Visually matches the original (verify by side-by-side comparison)
+

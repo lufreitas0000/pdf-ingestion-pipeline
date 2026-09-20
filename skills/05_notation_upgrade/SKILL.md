@@ -135,3 +135,4 @@ The `notation.json` file has a `context_hints` field for each symbol to guide ag
 ## Integration with `config/notation.json`
 
 The notation table is stored in `config/notation.json` and is the **single source of truth** for all books. When ingesting a new book that uses unconventional notation (e.g., Fazekas uses `c_{k\sigma}^+` instead of `c_{k\sigma}^\dagger`), add an entry to `notation.json` and note it in `book.yaml` under `notation_overrides`.
+

@@ -31,3 +31,4 @@ notation_overrides:
     legacy: "c^+"
     modern: "c^\\dagger"
     apply: true
+
