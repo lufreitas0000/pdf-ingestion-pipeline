@@ -1,0 +1,22 @@
+book_id: REPLACE_WITH_BOOK_ID
+title: "Full Book Title"
+author_last: "AuthorLastName"
+author_full: "First Last"
+year: YYYY
+topic: "topic_slug"              # e.g. quantum_mechanics, condensed_matter
+subject_keywords:
+  - keyword1
+  - keyword2
+publisher: "Publisher Name"
+source_pdf: "book_id.pdf"       # filename inside 00_raw/
+stages:
+  ocr_chunk_size: 3             # pages per OCR chunk (3 = safe for 8GB RAM)
+  ocr_model: flash              # cheapest model for Stage 1 text OCR
+  stage3_model: flash           # markdown verification
+  stage4_model: flash           # LaTeX conversion (text-to-text, no PDF)
+  figure_model: pro             # vision model for figure classification
+  parallel_subagents: 3         # max concurrent to avoid 429 rate limit
+  quota_threshold: 0.85         # suspend at 85% quota usage
+chapters: ~0                    # approximate chapter count
+total_pages: ~0
+notation_overrides: []          # per-book notation exceptions (see config/notation.json)

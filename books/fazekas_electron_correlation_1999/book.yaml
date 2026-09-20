@@ -1,0 +1,33 @@
+book_id: fazekas_electron_correlation_1999
+title: "Lecture Notes on Electron Correlation and Magnetism"
+author_last: "Fazekas"
+author_full: "Patrik Fazekas"
+year: 1999
+topic: "condensed_matter"
+subject_keywords:
+  - Hubbard model
+  - Mott insulator
+  - Kondo effect
+  - Heisenberg model
+  - spin waves
+  - magnetism
+  - strongly correlated electrons
+publisher: "World Scientific"
+series: "Series in Modern Condensed Matter Physics, Vol. 5"
+source_pdf: "fazekas_electron_correlation_1999.pdf"
+stages:
+  ocr_chunk_size: 3
+  ocr_model: flash
+  stage3_model: flash
+  stage4_model: flash
+  figure_model: pro
+  parallel_subagents: 3
+  quota_threshold: 0.85
+chapters: ~20
+total_pages: ~777
+notation_overrides:
+  # Fazekas uses c^+ instead of c^\dagger — override for this book only
+  - symbol: "creation_operator"
+    legacy: "c^+"
+    modern: "c^\\dagger"
+    apply: true

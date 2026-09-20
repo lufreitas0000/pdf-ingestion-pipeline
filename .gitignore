@@ -71,3 +71,12 @@ venv/
 .vscode/
 .DS_Store
 *.swp
+
+# Raw PDFs in book directories (large binary — use DVC or LFS)
+books/*/00_raw/*.pdf
+books/*/00_raw/chapters/*.pdf
+# Keep directory structure
+!books/*/00_raw/.gitkeep
+!books/*/00_raw/chapters/.gitkeep
+# Solutions are tracked (small markdown files)
+# books/*/solutions/ — NOT ignored
