@@ -1,0 +1,717 @@
+\contentsline {section}{\numberline {0.1}LECTURES ON QUANTUM MECHANICS}{16}{section.0.1}%
+\contentsline {section}{\numberline {0.2}LECTURES ON QUANTUM MECHANICS}{16}{section.0.2}%
+\contentsline {section}{\numberline {0.3}LECTURE NOTES AND SUPPLEMENTS IN PHYSICS}{16}{section.0.3}%
+\contentsline {section}{\numberline {0.4}LECTURES ON QUANTUM MECHANICS}{17}{section.0.4}%
+\contentsline {section}{\numberline {0.5}PREFACE}{18}{section.0.5}%
+\contentsline {section}{\numberline {0.6}CONTENTS}{19}{section.0.6}%
+\contentsline {section}{\numberline {0.7}CONTENTS ix}{19}{section.0.7}%
+\contentsline {chapter}{\numberline {1}Photon Polarization}{21}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Photon Polarization}{21}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Classical Description of Polarized Light}{21}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Field Energy and the Quantum Hypothesis}{22}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}State Vectors and the Superposition Principle}{23}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}Probability Amplitudes and Measurement}{25}{subsection.1.1.4}%
+\contentsline {section}{\numberline {1.2}Transformation of Bases}{25}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}General Basis Transformations}{25}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Rotations in the Transverse Plane}{26}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Eigenvalues, Eigenvectors, and the Spin Operator}{26}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Angular Momentum of the Photon}{27}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Classical Electromagnetic Angular Momentum}{28}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Quantum Interpretation and Expectation Values}{29}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Dirac Notation: Outer Products and Spectral Decomposition}{29}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1.4}Amplitude Mechanics}{30}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Quantum Superposition versus Classical Mixtures}{31}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}The Fundamental Rules of Amplitude Mechanics}{32}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Distinguishability, Complementarity, and the Uncertainty Principle}{32}{subsection.1.4.3}%
+\contentsline {section}{\numberline {1.5}Unpolarized Light and Mixed States}{33}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Pure States versus Mixed States}{33}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Phase Randomization and Decoherence}{34}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Quantum Mechanical Definition of Unpolarized Light}{35}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Basis Independence}{35}{subsection.1.5.4}%
+\contentsline {section}{\numberline {1.6}Behavior of Photon Polarization in Matter}{36}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Birefringence and the Evolution Operator}{36}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Transition Amplitudes and Probabilities}{36}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Spatial Evolution: The Wavenumber Operator}{37}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Conservation of Probability, Hermiticity, and Unitarity}{38}{subsection.1.6.4}%
+\contentsline {section}{\numberline {1.7}Problems}{38}{section.1.7}%
+\contentsline {chapter}{\numberline {2}Neutral K Mesons}{43}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Neutral K Mesons}{43}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Strangeness and Kaon Production}{43}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}The Two-State Kaon System and the Strangeness Operator}{43}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Charge Conjugation Parity and CP Eigenstates}{44}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Weak Decays and Lifetimes}{45}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Time Evolution and Decaying States}{46}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}Quantum Interference Effects}{47}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Strangeness Oscillations ($K^0 \leftrightarrow \bar {K}^0$)}{47}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Regeneration of Short-Lived Kaons}{48}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Problems}{49}{section.2.3}%
+\contentsline {chapter}{\numberline {3}The Motion Of Particles In Quantum M Echanics}{51}{chapter.3}%
+\contentsline {section}{\numberline {3.1}The Motion of Particles in Quantum Mechanics}{51}{section.3.1}%
+\contentsline {section}{\numberline {3.2}The Schrödinger Equation}{51}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Amplitude Hopping and Time Evolution}{52}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Potential Energy and the Continuum Limit}{53}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Free Particle Wave Solutions}{54}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}State Vectors in Continuous Space}{54}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Inner Product and Normalization}{55}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Position Basis and the Completeness Relation}{55}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Orthogonality and the Dirac Delta Function}{55}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}The Dirac Delta Function and Momentum Representation}{56}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Properties of the Dirac Delta Function}{56}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Fourier Transform and the Momentum Basis}{57}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Physical Interpretation of the Momentum Wave Function}{57}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Quantum Operators and Observables}{58}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}The Momentum Operator}{58}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}The Position Operator and Potential Energy}{59}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}The Hamiltonian Operator and Canonical Quantization}{59}{subsection.3.5.3}%
+\contentsline {section}{\numberline {3.6}The Free Particle and Wave Packet Dynamics}{59}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Wave Packets and Group Velocity}{60}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}The Heisenberg Uncertainty Principle}{60}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}The Free Particle Propagator and Classical Action}{61}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}Quantum Mechanical Motion as a Sum Over Paths}{62}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Path Discretization and the Action}{62}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Diffraction as Path Truncation}{63}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}The Classical Limit and Hamilton's Principle}{63}{subsection.3.7.3}%
+\contentsline {section}{\numberline {3.8}Particle in a Magnetic Field and the Peierls Phase}{64}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Discrete Lattice Perspective and the Peierls Substitution}{64}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Magnetic Vector Potential in the Path Integral}{65}{subsection.3.8.2}%
+\contentsline {section}{\numberline {3.9}The Aharonov-Bohm Effect}{65}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Physical Implications and Gauge Invariance}{66}{subsection.3.9.1}%
+\contentsline {section}{\numberline {3.10}Problems}{66}{section.3.10}%
+\contentsline {chapter}{\numberline {4}Potential Problems Mostly In One Dimension}{69}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Potential Problems, Mostly in One Dimension}{69}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Properties of Hermitian Operators}{69}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Definition and Adjoint Algebra}{69}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Hermiticity of Position and Momentum}{70}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Spectral Theorems: Reality of Eigenvalues and Orthogonality}{70}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Completeness and Spectral Resolution}{71}{subsection.4.2.4}%
+\contentsline {section}{\numberline {4.3}Energy Eigenstates and Stationary States}{71}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Stationary Properties of Energy Eigenstates}{71}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}General Time Evolution via Spectral Expansion}{72}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}One-Dimensional Potential Step and Scattering}{72}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Scattering Above the Barrier ($E > V_0$)}{73}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Wave Packet Dynamics}{73}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Total Reflection and Evanescent Waves ($E < V_0$)}{74}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Quantum Tunneling}{75}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Transmission Amplitude and Tunneling Probability}{75}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Energy-Time Uncertainty and Transit Time}{75}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Physical Applications}{76}{subsection.4.5.3}%
+\contentsline {paragraph}{Nuclear $\alpha $-Decay.}{76}{section*.2}%
+\contentsline {paragraph}{Solid-State Tunnel Junctions.}{76}{section*.3}%
+\contentsline {section}{\numberline {4.6}Bound States and the Infinite Potential Well}{76}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}The One-Dimensional Infinite Square Well}{76}{subsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.6.2}Zero-Point Energy and Quantum Confinement}{77}{subsection.4.6.2}%
+\contentsline {subsection}{\numberline {4.6.3}Macroscopic Quantum Effects: Liquid Helium}{78}{subsection.4.6.3}%
+\contentsline {section}{\numberline {4.7}Parity Symmetry and Commuting Observables}{78}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}The Parity Operator}{78}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}General Theory of Commuting Observables}{78}{subsection.4.7.2}%
+\contentsline {subsection}{\numberline {4.7.3}Application: The Finite Symmetric Square Well}{79}{subsection.4.7.3}%
+\contentsline {section}{\numberline {4.8}Transmission Resonances and Complex Energy Poles}{80}{section.4.8}%
+\contentsline {subsection}{\numberline {4.8.1}Resonance Condition and Perfect Transmission}{80}{subsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.8.2}Analytic Structure of the S-Matrix}{81}{subsection.4.8.2}%
+\contentsline {subsection}{\numberline {4.8.3}Wave Packet Dynamics and Exponential Decay}{81}{subsection.4.8.3}%
+\contentsline {section}{\numberline {4.9}The One-Dimensional Delta-Function Potential}{82}{section.4.9}%
+\contentsline {subsection}{\numberline {4.9.1}Green's Function Formulation and Scattering States}{82}{subsection.4.9.1}%
+\contentsline {subsection}{\numberline {4.9.2}Bound State for Attractive Potential ($v_0 < 0$)}{83}{subsection.4.9.2}%
+\contentsline {section}{\numberline {4.10}Periodic Potentials and Band Theory}{84}{section.4.10}%
+\contentsline {subsection}{\numberline {4.10.1}Translation Symmetry and Bloch's Theorem}{84}{subsection.4.10.1}%
+\contentsline {subsection}{\numberline {4.10.2}The Kronig-Penney Model with Delta-Function Barriers}{84}{subsection.4.10.2}%
+\contentsline {subsection}{\numberline {4.10.3}Born-von K\'arm\'an Boundary Conditions and Band Filling}{85}{subsection.4.10.3}%
+\contentsline {subsection}{\numberline {4.10.4}Insulators versus Conductors}{85}{subsection.4.10.4}%
+\contentsline {section}{\numberline {4.11}The Quantum Harmonic Oscillator}{86}{section.4.11}%
+\contentsline {subsection}{\numberline {4.11.1}Dirac Ladder Operators and the Number Operator}{86}{subsection.4.11.1}%
+\contentsline {subsection}{\numberline {4.11.2}Energy Spectrum and Ladder Algebra}{86}{subsection.4.11.2}%
+\contentsline {subsection}{\numberline {4.11.3}Wave Functions in the Position Representation}{87}{subsection.4.11.3}%
+\contentsline {section}{\numberline {4.12}Problems}{88}{section.4.12}%
+\contentsline {chapter}{\numberline {5}Equations Of Motion For Operators}{93}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Equations of Motion for Operators}{93}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Functions of Operators}{93}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Power Series and Spectral Definitions}{93}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Non-Commutativity and Weyl's Formula}{94}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Time-Evolution Operator in the Schrödinger Picture}{94}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}The Heisenberg Representation}{95}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}State Evolution versus Operator Evolution}{95}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}The Heisenberg Equation of Motion}{95}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Particle Dynamics and the Classical Correspondence}{96}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Exactly Solvable Cases}{97}{subsection.5.3.4}%
+\contentsline {subsubsection}{The Free Particle}{97}{section*.4}%
+\contentsline {subsubsection}{The Simple Harmonic Oscillator}{97}{section*.5}%
+\contentsline {subsection}{\numberline {5.3.5}Explicitly Time-Dependent Hamiltonians}{97}{subsection.5.3.5}%
+\contentsline {section}{\numberline {5.4}Formal Solution for the Time-Development Operator}{98}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Perturbative Expansion and the Dyson Series}{98}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}The Time-Ordering Operator}{99}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Direct Verification}{100}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}Problems}{100}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Orbital Angular Momentum And Central Potentials}{103}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Orbital Angular Momentum and Central Potentials}{103}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Definition and Hermiticity of Orbital Angular Momentum}{103}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Commutation Relations}{104}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Commutators with Position and Momentum}{104}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Angular Momentum Commutation Relations}{104}{subsection.6.2.2}%
+\contentsline {section}{\numberline {6.3}Rotations and Angular Momentum}{105}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Infinitesimal and Finite Operator Transformations}{105}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Transformation of State Vectors and Wave Functions}{106}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Comparison with Spatial Translations}{106}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Differential Operator Representation}{107}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Spherical Coordinates and the $z$-Component}{107}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Transverse Components and Ladder Operators}{107}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Total Angular Momentum and the Laplacian}{108}{subsection.6.4.3}%
+\contentsline {section}{\numberline {6.5}Eigenfunctions and Eigenvalues of Angular Momentum}{108}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Commuting Observables and the Choice of Basis}{109}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Ladder Operators and the Spectrum}{109}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.3}Physical Picture and Single-Valuedness for Orbital States}{110}{subsection.6.5.3}%
+\contentsline {section}{\numberline {6.6}Spherical Harmonics}{110}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Construction via Ladder Operators}{111}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Normalization and General Formula}{111}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Low-Order Harmonics and Symmetry Properties}{112}{subsection.6.6.3}%
+\contentsline {subsection}{\numberline {6.6.4}Completeness on the Sphere}{112}{subsection.6.6.4}%
+\contentsline {section}{\numberline {6.7}Central Forces and the Radial Equation}{112}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Rotational Invariance and Multiplet Degeneracy}{113}{subsection.6.7.1}%
+\contentsline {subsection}{\numberline {6.7.2}Separation of Variables and the Radial Equation}{113}{subsection.6.7.2}%
+\contentsline {subsection}{\numberline {6.7.3}Boundary Conditions at the Origin and Asymptotics}{114}{subsection.6.7.3}%
+\contentsline {subsection}{\numberline {6.7.4}Free Solutions and Spherical Bessel Functions}{114}{subsection.6.7.4}%
+\contentsline {subsection}{\numberline {6.7.5}Partial-Wave Expansion of a Plane Wave}{115}{subsection.6.7.5}%
+\contentsline {section}{\numberline {6.8}Problems}{115}{section.6.8}%
+\contentsline {chapter}{\numberline {7}The Hydrogen Atom}{117}{chapter.7}%
+\contentsline {section}{\numberline {7.1}The Hydrogen Atom}{117}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Structure of the Hydrogen Atom}{117}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Two-Particle Systems and Center-of-Mass Separation}{117}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Commutation Relations and Observables}{118}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Transformation to Center-of-Mass and Relative Coordinates}{118}{subsection.7.3.2}%
+\contentsline {subsection}{\numberline {7.3.3}Separation of Variables}{119}{subsection.7.3.3}%
+\contentsline {section}{\numberline {7.4}Hydrogen Atom Wave Functions}{119}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}The Radial Coulomb Equation and Energy Spectrum}{120}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Normalized Radial Wave Functions}{120}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Energy Level Multiplets and Accidental Degeneracy}{121}{subsection.7.4.3}%
+\contentsline {subsection}{\numberline {7.4.4}Asymptotic Behavior and Spatial Characteristics}{121}{subsection.7.4.4}%
+\contentsline {section}{\numberline {7.5}The Dynamical Symmetry of the Hydrogen Atom}{122}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}The Quantum Runge--Lenz Operator}{122}{subsection.7.5.1}%
+\contentsline {subsection}{\numberline {7.5.2}The $\mathrm {SO}(4)$ Symmetry Lie Algebra}{122}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Decoupling into Independent $\mathrm {SU}(2)$ Algebras}{123}{subsection.7.5.3}%
+\contentsline {subsection}{\numberline {7.5.4}Spectrum and Degeneracy from Group Representations}{123}{subsection.7.5.4}%
+\contentsline {section}{\numberline {7.6}Problems}{124}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Cooper Pairs}{127}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Cooper Pairs}{127}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}The Noninteracting Fermi Sea}{127}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Formulation of the Two-Electron Problem}{128}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}Nonlocal Potentials and Momentum Conservation}{129}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}The Cooper Model and Bound State Solution}{129}{subsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.1.5}Properties of the Bound State and Supercurrents}{130}{subsection.8.1.5}%
+\contentsline {subsection}{\numberline {8.1.6}Angular Momentum Decomposition of Nonlocal Potentials}{132}{subsection.8.1.6}%
+\contentsline {section}{\numberline {8.2}Problems}{132}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Potential Scattering}{133}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Potential Scattering}{133}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Wave Packets in Potential Scattering}{133}{section.9.2}%
+\contentsline {subsection}{\numberline {9.2.1}Initial Wave Packet and Stationary State Formulation}{133}{subsection.9.2.1}%
+\contentsline {subsection}{\numberline {9.2.2}The Free-Particle Green's Function and Lippmann--Schwinger Equation}{134}{subsection.9.2.2}%
+\contentsline {subsection}{\numberline {9.2.3}Asymptotic Scattering Amplitude}{135}{subsection.9.2.3}%
+\contentsline {subsection}{\numberline {9.2.4}Time Evolution of the Scattering Wave Packet}{135}{subsection.9.2.4}%
+\contentsline {section}{\numberline {9.3}Scattering Cross Sections}{136}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Definition of the Differential Cross Section}{136}{subsection.9.3.1}%
+\contentsline {subsection}{\numberline {9.3.2}Probability Current Formulation and Total Cross Section}{137}{subsection.9.3.2}%
+\contentsline {section}{\numberline {9.4}Partial Wave Analysis}{137}{section.9.4}%
+\contentsline {subsection}{\numberline {9.4.1}Partial Wave Expansion of Plane and Scattering Waves}{138}{subsection.9.4.1}%
+\contentsline {subsection}{\numberline {9.4.2}Phase Shifts and the $S$-Matrix}{138}{subsection.9.4.2}%
+\contentsline {subsection}{\numberline {9.4.3}Cross Sections in Terms of Phase Shifts}{139}{subsection.9.4.3}%
+\contentsline {subsection}{\numberline {9.4.4}Physical Interpretation of the Phase Shift}{140}{subsection.9.4.4}%
+\contentsline {section}{\numberline {9.5}The Optical Theorem}{140}{section.9.5}%
+\contentsline {subsection}{\numberline {9.5.1}Derivation via Partial Wave Analysis}{140}{subsection.9.5.1}%
+\contentsline {subsection}{\numberline {9.5.2}Physical Origin: Conservation of Probability and the Forward Shadow}{141}{subsection.9.5.2}%
+\contentsline {section}{\numberline {9.6}The Born Approximation}{142}{section.9.6}%
+\contentsline {subsection}{\numberline {9.6.1}Born Approximation for Partial Wave Phase Shifts}{142}{subsection.9.6.1}%
+\contentsline {subsection}{\numberline {9.6.2}First Born Approximation for the Scattering Amplitude}{143}{subsection.9.6.2}%
+\contentsline {subsection}{\numberline {9.6.3}Application to the Yukawa and Coulomb Potentials}{144}{subsection.9.6.3}%
+\contentsline {section}{\numberline {9.7}Properties of the Scattering Amplitude}{144}{section.9.7}%
+\contentsline {subsection}{\numberline {9.7.1}Logarithmic Derivative and Phase Shifts}{144}{subsection.9.7.1}%
+\contentsline {paragraph}{Example: Hard Sphere Scattering.}{145}{section*.6}%
+\contentsline {subsection}{\numberline {9.7.2}Threshold Behavior and the Scattering Length}{145}{subsection.9.7.2}%
+\contentsline {subsection}{\numberline {9.7.3}Analytic Continuation, Bound States, and Virtual States}{146}{subsection.9.7.3}%
+\contentsline {subsection}{\numberline {9.7.4}Application: Low-Energy Neutron--Proton Scattering}{147}{subsection.9.7.4}%
+\contentsline {section}{\numberline {9.8}Low-Energy Resonances and the Breit--Wigner Formula}{147}{section.9.8}%
+\contentsline {subsection}{\numberline {9.8.1}Derivation of the Breit--Wigner Resonance Formula}{147}{subsection.9.8.1}%
+\contentsline {subsection}{\numberline {9.8.2}Physical Origin: Centrifugal Barrier and Quasi-Bound States}{148}{subsection.9.8.2}%
+\contentsline {subsection}{\numberline {9.8.3}Complex Energy Poles of the $S$-Matrix}{149}{subsection.9.8.3}%
+\contentsline {subsection}{\numberline {9.8.4}Monotonicity of the Logarithmic Derivative}{149}{subsection.9.8.4}%
+\contentsline {section}{\numberline {9.9}Problems}{150}{section.9.9}%
+\contentsline {chapter}{\numberline {10}Coulomb Scattering}{151}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Coulomb Scattering}{151}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Asymptotic Behavior and the Logarithmic Phase Distortion}{151}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Exact Solution in Parabolic Coordinates}{152}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}The Coulomb Scattering Amplitude and Rutherford Cross Section}{152}{subsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.1.4}Forward Divergence and Screening}{153}{subsection.10.1.4}%
+\contentsline {section}{\numberline {10.2}Analytic Properties of the Scattering Amplitude}{153}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Complex Poles and the Hydrogen Bound States}{153}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}Partial Wave Expansion in Spherical Coordinates}{154}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}Partial Wave Projection and Analytic Continuation}{155}{subsection.10.2.3}%
+\contentsline {subsection}{\numberline {10.2.4}Channel-by-Channel Bound State Poles}{155}{subsection.10.2.4}%
+\contentsline {section}{\numberline {10.3}Regge Poles and Complex Angular Momentum}{156}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Definition of Regge Poles and Trajectories}{156}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}Regge Trajectories for Short-Range Potentials}{156}{subsection.10.3.2}%
+\contentsline {subsection}{\numberline {10.3.3}Physical Resonances from Complex Angular Momentum Poles}{157}{subsection.10.3.3}%
+\contentsline {subsection}{\numberline {10.3.4}Low-Energy Connection to the Breit--Wigner Width}{157}{subsection.10.3.4}%
+\contentsline {section}{\numberline {10.4}Problems}{158}{section.10.4}%
+\contentsline {chapter}{\numberline {11}Stationary State Perturbation Theory}{159}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Stationary-State Perturbation Theory}{159}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Validity and Non-Perturbative Limitations}{159}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Intermediate Normalization and Order-by-Order Expansion}{160}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}State Corrections and the Second-Order Energy Shift}{161}{subsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.1.4}Example: The Displaced Harmonic Oscillator}{162}{subsection.11.1.4}%
+\contentsline {section}{\numberline {11.2}The Wave Function Renormalization Constant}{162}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Degenerate Perturbation Theory}{164}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Diagonalization in the Degenerate Subspace}{164}{subsection.11.3.1}%
+\contentsline {subsection}{\numberline {11.3.2}Perturbation Expansions in the Adapted Basis}{165}{subsection.11.3.2}%
+\contentsline {subsection}{\numberline {11.3.3}Symmetries and Selection Rules}{165}{subsection.11.3.3}%
+\contentsline {subsection}{\numberline {11.3.4}Example: The Linear Stark Effect in Hydrogen ($n = 2$)}{165}{subsection.11.3.4}%
+\contentsline {section}{\numberline {11.4}Van der Waals Interaction}{166}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}The Dipole--Dipole Interaction Hamiltonian}{166}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}First- and Second-Order Perturbation Energies}{167}{subsection.11.4.2}%
+\contentsline {subsection}{\numberline {11.4.3}Physical Origin and Short-Range Core Repulsion}{168}{subsection.11.4.3}%
+\contentsline {section}{\numberline {11.5}Almost-Degenerate Perturbation Theory}{168}{section.11.5}%
+\contentsline {subsection}{\numberline {11.5.1}Two-Level Subspace Diagonalization}{168}{subsection.11.5.1}%
+\contentsline {subsection}{\numberline {11.5.2}Application: Nearly Free Electrons in a Periodic Lattice}{169}{subsection.11.5.2}%
+\contentsline {subsubsection}{Perturbation Away from the Brillouin Zone Boundaries}{170}{section*.7}%
+\contentsline {subsubsection}{Band Gap Opening at the Zone Boundary}{170}{section*.8}%
+\contentsline {section}{\numberline {11.6}Brillouin--Wigner Perturbation Theory}{171}{section.11.6}%
+\contentsline {subsection}{\numberline {11.6.1}Iterative Integral Equation for the State Vector}{171}{subsection.11.6.1}%
+\contentsline {subsection}{\numberline {11.6.2}Brillouin--Wigner Series and Self-Consistent Energy Equation}{171}{subsection.11.6.2}%
+\contentsline {subsection}{\numberline {11.6.3}Relationship to Rayleigh--Schr{\"o}dinger Theory}{172}{subsection.11.6.3}%
+\contentsline {section}{\numberline {11.7}Non-Perturbative Methods: The Variational Principle}{172}{section.11.7}%
+\contentsline {subsection}{\numberline {11.7.1}The Rayleigh--Ritz Variational Theorem}{172}{subsection.11.7.1}%
+\contentsline {subsection}{\numberline {11.7.2}Variational Optimization and Excited States}{173}{subsection.11.7.2}%
+\contentsline {subsection}{\numberline {11.7.3}Lower Bounds from Positive Operators}{173}{subsection.11.7.3}%
+\contentsline {section}{\numberline {11.8}Problems}{173}{section.11.8}%
+\contentsline {chapter}{\numberline {12}Time Dependent Perturbation Theory}{177}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Time-Dependent Perturbation Theory}{177}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}The Schr{\"o}dinger Equation with Time-Dependent Interactions}{177}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}The Interaction Picture}{177}{subsection.12.1.2}%
+\contentsline {subsection}{\numberline {12.1.3}The Dyson Series and Time Ordering}{178}{subsection.12.1.3}%
+\contentsline {section}{\numberline {12.2}First-Order Transitions and Fermi's Golden Rule}{179}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}First-Order Transition Amplitude}{179}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}Sudden Switching of a Constant Perturbation}{179}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}Transitions to a Continuum: Derivation of Fermi's Golden Rule}{180}{subsection.12.2.3}%
+\contentsline {subsubsection}{Regimes of Validity}{180}{section*.9}%
+\contentsline {subsection}{\numberline {12.2.4}Physical Applications}{180}{subsection.12.2.4}%
+\contentsline {subsubsection}{Elastic Scattering and the Born Approximation}{180}{section*.10}%
+\contentsline {subsubsection}{Radioactive Decay}{181}{section*.11}%
+\contentsline {subsection}{\numberline {12.2.5}Adiabatic Switching}{181}{subsection.12.2.5}%
+\contentsline {section}{\numberline {12.3}Harmonic Perturbations}{182}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}First-Order Transition Amplitude and Probability}{182}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}Cycle Averaging and Transition Rates}{182}{subsection.12.3.2}%
+\contentsline {section}{\numberline {12.4}Second-Order Transitions}{183}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}Derivation of the Second-Order Transition Amplitude}{183}{subsection.12.4.1}%
+\contentsline {subsection}{\numberline {12.4.2}Second-Order Golden Rule and Virtual Intermediate States}{184}{subsection.12.4.2}%
+\contentsline {subsection}{\numberline {12.4.3}Generalization: The Transition Matrix ($T$-Matrix)}{184}{subsection.12.4.3}%
+\contentsline {section}{\numberline {12.5}Forward Scattering Amplitude and the Optical Theorem}{185}{section.12.5}%
+\contentsline {subsection}{\numberline {12.5.1}Equations of Motion for the Survival Amplitude}{185}{subsection.12.5.1}%
+\contentsline {subsection}{\numberline {12.5.2}Adiabatic Evolution and Discrete Spectra}{185}{subsection.12.5.2}%
+\contentsline {subsection}{\numberline {12.5.3}Continuum Spectra: Complex Energy and the Optical Theorem}{186}{subsection.12.5.3}%
+\contentsline {section}{\numberline {12.6}Problems}{187}{section.12.6}%
+\contentsline {chapter}{\numberline {13}Interaction Of Radiation With Matter}{189}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Interaction of Radiation with Matter: Classical Field Foundations}{189}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}The Transverse Gauge and Maxwell's Equations}{189}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}Free Plane Waves and Energy Flux}{190}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}Normal Mode Expansion in a Quantization Box}{190}{subsection.13.1.3}%
+\contentsline {section}{\numberline {13.2}The Interaction Hamiltonian}{191}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}Minimal Coupling and Gauge Invariance}{191}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}Mechanical Velocity vs.\ Canonical Momentum}{191}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}Separation of the Interaction Hamiltonian}{192}{subsection.13.2.3}%
+\contentsline {subsection}{\numberline {13.2.4}Many-Particle Systems: Paramagnetic and Diamagnetic Currents}{192}{subsection.13.2.4}%
+\contentsline {section}{\numberline {13.3}Absorption of Light and Induced Emission}{193}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}Mode Decomposition of the Interaction}{193}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}Transition Rates for Broadband Incoherent Radiation}{193}{subsection.13.3.2}%
+\contentsline {subsection}{\numberline {13.3.3}Connection to Spectral Intensity and Induced Emission}{194}{subsection.13.3.3}%
+\contentsline {subsection}{\numberline {13.3.4}Photon Interpretation and Absorption Cross Section}{194}{subsection.13.3.4}%
+\contentsline {section}{\numberline {13.4}The Quantized Radiation Field}{195}{section.13.4}%
+\contentsline {subsection}{\numberline {13.4.1}Photon Fock States and Field Quantization}{195}{subsection.13.4.1}%
+\contentsline {subsection}{\numberline {13.4.2}The Quantized Vector Potential Operator}{195}{subsection.13.4.2}%
+\contentsline {subsection}{\numberline {13.4.3}Photon Emission: Spontaneous vs.\ Induced Emission}{196}{subsection.13.4.3}%
+\contentsline {subsection}{\numberline {13.4.4}Vacuum Fluctuations as the Origin of Spontaneous Emission}{196}{subsection.13.4.4}%
+\contentsline {section}{\numberline {13.5}Einstein's $A$ and $B$ Coefficients and Detailed Balance}{196}{section.13.5}%
+\contentsline {subsection}{\numberline {13.5.1}Thermal Equilibrium in a Radiation Cavity}{197}{subsection.13.5.1}%
+\contentsline {subsection}{\numberline {13.5.2}The Principle of Detailed Balance}{197}{subsection.13.5.2}%
+\contentsline {subsection}{\numberline {13.5.3}Universal Form of the Radiative Transition Rate}{198}{subsection.13.5.3}%
+\contentsline {section}{\numberline {13.6}Details of Spontaneous Emission: Angular Distribution and Momentum Conservation}{198}{section.13.6}%
+\contentsline {subsection}{\numberline {13.6.1}Radiated Power and the Classical Correspondence}{198}{subsection.13.6.1}%
+\contentsline {subsection}{\numberline {13.6.2}Momentum Conservation and Atomic Recoil}{199}{subsection.13.6.2}%
+\contentsline {subsection}{\numberline {13.6.3}Impossibility of Radiation by a Free Electron}{200}{subsection.13.6.3}%
+\contentsline {section}{\numberline {13.7}Electric Dipole Transitions}{200}{section.13.7}%
+\contentsline {subsection}{\numberline {13.7.1}The Electric Dipole Approximation}{200}{subsection.13.7.1}%
+\contentsline {subsection}{\numberline {13.7.2}Radiated Power and Angular Distribution}{201}{subsection.13.7.2}%
+\contentsline {subsection}{\numberline {13.7.3}Selection Rules for Electric Dipole Transitions}{201}{subsection.13.7.3}%
+\contentsline {subsubsection}{Magnetic Quantum Number Selection Rules ($\Delta m$)}{201}{section*.12}%
+\contentsline {subsubsection}{Orbital Angular Momentum Selection Rules ($\Delta l$)}{202}{section*.13}%
+\contentsline {subsection}{\numberline {13.7.4}The Thomas--Reiche--Kuhn (TRK) Dipole Sum Rule}{202}{subsection.13.7.4}%
+\contentsline {section}{\numberline {13.8}Magnetic Dipole and Electric Quadrupole Transitions}{203}{section.13.8}%
+\contentsline {subsection}{\numberline {13.8.1}Decomposition of the First Retardation Correction}{203}{subsection.13.8.1}%
+\contentsline {subsection}{\numberline {13.8.2}Magnetic Dipole Transitions ($M1$)}{204}{subsection.13.8.2}%
+\contentsline {subsection}{\numberline {13.8.3}Electric Quadrupole Transitions ($E2$)}{204}{subsection.13.8.3}%
+\contentsline {subsection}{\numberline {13.8.4}Strictly Forbidden Transitions and Two-Photon Decay}{205}{subsection.13.8.4}%
+\contentsline {section}{\numberline {13.9}Scattering of Light and Thomson Scattering}{205}{section.13.9}%
+\contentsline {subsection}{\numberline {13.9.1}First-Order Scattering from the $\mathbf {A}^2$ Contact Interaction}{205}{subsection.13.9.1}%
+\contentsline {subsection}{\numberline {13.9.2}Differential Cross Section and Thomson Scattering}{206}{subsection.13.9.2}%
+\contentsline {subsubsection}{Scattering from a Single Free Electron}{206}{section*.14}%
+\contentsline {subsubsection}{Coherent Multi-Electron Scattering}{207}{section*.15}%
+\contentsline {subsection}{\numberline {13.9.3}Second-Order Contributions from $\mathbf {j} \cdot \mathbf {A}$}{207}{subsection.13.9.3}%
+\contentsline {section}{\numberline {13.10}Raman and Rayleigh Scattering: The Kramers--Heisenberg Formula}{207}{section.13.10}%
+\contentsline {subsection}{\numberline {13.10.1}Derivation of the Kramers--Heisenberg Transition Amplitude}{208}{subsection.13.10.1}%
+\contentsline {subsection}{\numberline {13.10.2}Selection Rules and Parity Complementarity}{208}{subsection.13.10.2}%
+\contentsline {subsection}{\numberline {13.10.3}Rayleigh Scattering and the $\omega ^4$ Law}{209}{subsection.13.10.3}%
+\contentsline {subsection}{\numberline {13.10.4}The Dipole Gauge Transformation}{209}{subsection.13.10.4}%
+\contentsline {section}{\numberline {13.11}Problems}{209}{section.13.11}%
+\contentsline {chapter}{\numberline {14}Spin 12}{213}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Spin 1/2}{213}{section.14.1}%
+\contentsline {subsection}{\numberline {14.1.1}Spin Operators and State Space}{213}{subsection.14.1.1}%
+\contentsline {subsection}{\numberline {14.1.2}The Pauli Representation}{213}{subsection.14.1.2}%
+\contentsline {subsection}{\numberline {14.1.3}Algebraic Properties of the Pauli Matrices}{214}{subsection.14.1.3}%
+\contentsline {subsection}{\numberline {14.1.4}Useful Identities}{215}{subsection.14.1.4}%
+\contentsline {section}{\numberline {14.2}Rotations in Spin Space}{215}{section.14.2}%
+\contentsline {subsection}{\numberline {14.2.1}Transformation of Spin Operators}{215}{subsection.14.2.1}%
+\contentsline {subsection}{\numberline {14.2.2}Transformation of Spin States}{216}{subsection.14.2.2}%
+\contentsline {subsection}{\numberline {14.2.3}Matrix Evaluation of the Spin Rotation Operator}{216}{subsection.14.2.3}%
+\contentsline {subsection}{\numberline {14.2.4}Composition and the Double-Valued Nature of $SU(2)$}{217}{subsection.14.2.4}%
+\contentsline {section}{\numberline {14.3}Including Spatial Degrees of Freedom}{217}{section.14.3}%
+\contentsline {subsection}{\numberline {14.3.1}Two-Component Spinor Wave Functions}{217}{subsection.14.3.1}%
+\contentsline {subsection}{\numberline {14.3.2}Total Angular Momentum and Joint Rotations}{218}{subsection.14.3.2}%
+\contentsline {section}{\numberline {14.4}The Spin Magnetic Moment}{218}{section.14.4}%
+\contentsline {subsection}{\numberline {14.4.1}Orbital and Spin Magnetic Moments}{219}{subsection.14.4.1}%
+\contentsline {subsection}{\numberline {14.4.2}The Zeeman Effect in Hydrogen}{219}{subsection.14.4.2}%
+\contentsline {subsection}{\numberline {14.4.3}Relativistic Spin-Orbit Coupling}{220}{subsection.14.4.3}%
+\contentsline {subsection}{\numberline {14.4.4}The Pauli Equation}{220}{subsection.14.4.4}%
+\contentsline {section}{\numberline {14.5}Spin Precession}{221}{section.14.5}%
+\contentsline {subsection}{\numberline {14.5.1}Heisenberg Equation of Motion and Larmor Precession}{221}{subsection.14.5.1}%
+\contentsline {subsection}{\numberline {14.5.2}Schr{\"o}dinger Picture Description}{221}{subsection.14.5.2}%
+\contentsline {subsection}{\numberline {14.5.3}Experimental Application: The Muon $(g-2)$ Measurement}{222}{subsection.14.5.3}%
+\contentsline {section}{\numberline {14.6}Magnetic Resonance and Ramsey Interferometry}{222}{section.14.6}%
+\contentsline {subsection}{\numberline {14.6.1}Rotating Wave Approximation (RWA) and Rabi Oscillations}{222}{subsection.14.6.1}%
+\contentsline {subsection}{\numberline {14.6.2}Separated Oscillatory Fields: The Ramsey Method}{224}{subsection.14.6.2}%
+\contentsline {section}{\numberline {14.7}Motion in Inhomogeneous Magnetic Fields and the Stern--Gerlach Effect}{224}{section.14.7}%
+\contentsline {subsection}{\numberline {14.7.1}The Stern--Gerlach Experiment}{225}{subsection.14.7.1}%
+\contentsline {subsection}{\numberline {14.7.2}Entanglement of Spatial and Spin Degrees of Freedom}{225}{subsection.14.7.2}%
+\contentsline {subsection}{\numberline {14.7.3}Impossibility of a Stern--Gerlach Experiment for Free Electrons}{226}{subsection.14.7.3}%
+\contentsline {section}{\numberline {14.8}Problems}{227}{section.14.8}%
+\contentsline {chapter}{\numberline {15}Addition Of Angular Momenta}{229}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Addition of Angular Momenta: The Two Spin-1/2 System}{229}{section.15.1}%
+\contentsline {subsection}{\numberline {15.1.1}The Uncoupled Representation}{229}{subsection.15.1.1}%
+\contentsline {subsection}{\numberline {15.1.2}The Coupled Representation: Triplet and Singlet States}{229}{subsection.15.1.2}%
+\contentsline {subsection}{\numberline {15.1.3}Spin-Spin Coupling and Projection Operators}{231}{subsection.15.1.3}%
+\contentsline {section}{\numberline {15.2}Addition of Two General Angular Momenta}{231}{section.15.2}%
+\contentsline {subsection}{\numberline {15.2.1}Uncoupled and Coupled Representations}{231}{subsection.15.2.1}%
+\contentsline {subsection}{\numberline {15.2.2}Clebsch--Gordan Coefficients and Selection Rules}{232}{subsection.15.2.2}%
+\contentsline {subsection}{\numberline {15.2.3}The Triangle Rule and Multiplet Decomposition}{232}{subsection.15.2.3}%
+\contentsline {section}{\numberline {15.3}Clebsch--Gordan Coefficients and Recurrence Relations}{233}{section.15.3}%
+\contentsline {subsection}{\numberline {15.3.1}Orthogonality and Completeness}{233}{subsection.15.3.1}%
+\contentsline {subsection}{\numberline {15.3.2}Recurrence Relations via Ladder Operators}{234}{subsection.15.3.2}%
+\contentsline {subsection}{\numberline {15.3.3}Coupling Orbital Angular Momentum to Spin 1/2}{234}{subsection.15.3.3}%
+\contentsline {subsection}{\numberline {15.3.4}Eigenvalues of the Spin-Orbit Operator}{234}{subsection.15.3.4}%
+\contentsline {section}{\numberline {15.4}Scattering of Spin-1/2 Particles with Spinless Particles}{235}{section.15.4}%
+\contentsline {subsection}{\numberline {15.4.1}Symmetries and Conservation Laws}{235}{subsection.15.4.1}%
+\contentsline {subsection}{\numberline {15.4.2}Partial Wave Channel Decomposition}{236}{subsection.15.4.2}%
+\contentsline {section}{\numberline {15.5}Addition of Three Angular Momenta and Recoupling}{236}{section.15.5}%
+\contentsline {subsection}{\numberline {15.5.1}Coupling Schemes}{236}{subsection.15.5.1}%
+\contentsline {subsubsection}{First Coupling Scheme: $(12)3$}{236}{section*.16}%
+\contentsline {subsubsection}{Second Coupling Scheme: $1(23)$}{237}{section*.17}%
+\contentsline {subsection}{\numberline {15.5.2}Recoupling Coefficients and Wigner $6j$-Symbols}{237}{subsection.15.5.2}%
+\contentsline {subsection}{\numberline {15.5.3}Physical Application: The Two-Nucleon System}{237}{subsection.15.5.3}%
+\contentsline {section}{\numberline {15.6}Problems}{237}{section.15.6}%
+\contentsline {chapter}{\numberline {16}Isotopic Spin}{239}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Isotopic Spin}{239}{section.16.1}%
+\contentsline {subsection}{\numberline {16.1.1}The Nucleon Isospin Doublet}{239}{subsection.16.1.1}%
+\contentsline {subsection}{\numberline {16.1.2}The Pion Isospin Triplet}{240}{subsection.16.1.2}%
+\contentsline {subsection}{\numberline {16.1.3}The Pion--Nucleon System and Clebsch--Gordan Decomposition}{240}{subsection.16.1.3}%
+\contentsline {subsection}{\numberline {16.1.4}Charge Independence and Scattering Predictions}{241}{subsection.16.1.4}%
+\contentsline {section}{\numberline {16.2}Problems}{242}{section.16.2}%
+\contentsline {chapter}{\numberline {17}Rotations And Tensor Operators}{245}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Rotations and Tensor Operators: Introduction}{245}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Representations of the Rotation Group}{245}{section.17.2}%
+\contentsline {subsection}{\numberline {17.2.1}Group Representation Properties}{246}{subsection.17.2.1}%
+\contentsline {subsection}{\numberline {17.2.2}Euler Angle Parameterization}{246}{subsection.17.2.2}%
+\contentsline {subsection}{\numberline {17.2.3}Relation to Spherical Harmonics}{247}{subsection.17.2.3}%
+\contentsline {subsection}{\numberline {17.2.4}Direct Products and the Clebsch--Gordan Series}{247}{subsection.17.2.4}%
+\contentsline {subsection}{\numberline {17.2.5}Orthogonality of Rotation Matrices and Characters}{248}{subsection.17.2.5}%
+\contentsline {section}{\numberline {17.3}Spherical Tensor Operators and the Wigner--Eckart Theorem}{248}{section.17.3}%
+\contentsline {subsection}{\numberline {17.3.1}Definition of Irreducible Spherical Tensor Operators}{248}{subsection.17.3.1}%
+\contentsline {subsection}{\numberline {17.3.2}Spherical Components of Vector Operators and Solid Harmonics}{249}{subsection.17.3.2}%
+\contentsline {subsection}{\numberline {17.3.3}The Wigner--Eckart Theorem}{250}{subsection.17.3.3}%
+\contentsline {subsubsection}{Selection Rules}{250}{section*.18}%
+\contentsline {subsubsection}{Application to the Angular Momentum Operator}{250}{section*.19}%
+\contentsline {subsection}{\numberline {17.3.4}Tensor Products of Tensor Operators}{250}{subsection.17.3.4}%
+\contentsline {section}{\numberline {17.4}Multipole Radiation and Selection Rules}{251}{section.17.4}%
+\contentsline {subsection}{\numberline {17.4.1}Multipole Expansion of the Radiation Field}{251}{subsection.17.4.1}%
+\contentsline {subsection}{\numberline {17.4.2}Electric and Magnetic Multipoles}{252}{subsection.17.4.2}%
+\contentsline {subsection}{\numberline {17.4.3}Selection Rules via the Wigner--Eckart Theorem}{252}{subsection.17.4.3}%
+\contentsline {section}{\numberline {17.5}Angular Momentum and the Harmonic Oscillator: The Jordan--Schwinger Realization}{253}{section.17.5}%
+\contentsline {subsection}{\numberline {17.5.1}The Two-Oscillator Representation}{253}{subsection.17.5.1}%
+\contentsline {subsection}{\numberline {17.5.2}Angular Momentum Multiplets and Raising/Lowering Operators}{253}{subsection.17.5.2}%
+\contentsline {subsection}{\numberline {17.5.3}Evaluation of Wigner $d$-Matrices via Generating Functions}{254}{subsection.17.5.3}%
+\contentsline {subsection}{\numberline {17.5.4}Generalization to $SU(3)$ and the Quark Model}{255}{subsection.17.5.4}%
+\contentsline {section}{\numberline {17.6}Problems}{255}{section.17.6}%
+\contentsline {chapter}{\numberline {18}Identical Particles}{257}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Identical Particles: Indistinguishability and Symmetric Observables}{257}{section.18.1}%
+\contentsline {subsection}{\numberline {18.1.1}Quantum Indistinguishability}{257}{subsection.18.1.1}%
+\contentsline {subsection}{\numberline {18.1.2}The $N$-Particle Wave Function}{257}{subsection.18.1.2}%
+\contentsline {subsection}{\numberline {18.1.3}Symmetric Observables}{258}{subsection.18.1.3}%
+\contentsline {section}{\numberline {18.2}Permutations and Symmetry}{258}{section.18.2}%
+\contentsline {subsection}{\numberline {18.2.1}Permutation Operators}{258}{subsection.18.2.1}%
+\contentsline {subsection}{\numberline {18.2.2}Action on Operators and Exchange Degeneracy}{259}{subsection.18.2.2}%
+\contentsline {subsection}{\numberline {18.2.3}Two-Particle Systems: Bosons and Fermions}{260}{subsection.18.2.3}%
+\contentsline {subsection}{\numberline {18.2.4}The Spin-Statistics Connection and $n$-Particle Systems}{261}{subsection.18.2.4}%
+\contentsline {subsection}{\numberline {18.2.5}Spatial Localization and Wave Function Overlap}{261}{subsection.18.2.5}%
+\contentsline {subsection}{\numberline {18.2.6}Composite Particles}{262}{subsection.18.2.6}%
+\contentsline {subsection}{\numberline {18.2.7}The Pauli Exclusion Principle and Spin Multiplets}{262}{subsection.18.2.7}%
+\contentsline {section}{\numberline {18.3}States of Noninteracting Identical Particles}{263}{section.18.3}%
+\contentsline {subsection}{\numberline {18.3.1}The Many-Body Hamiltonian and Product States}{263}{subsection.18.3.1}%
+\contentsline {subsection}{\numberline {18.3.2}Symmetric States for Bosons}{264}{subsection.18.3.2}%
+\contentsline {subsection}{\numberline {18.3.3}Antisymmetric States for Fermions: The Slater Determinant}{265}{subsection.18.3.3}%
+\contentsline {subsection}{\numberline {18.3.4}Two-Particle Illustrative Example}{266}{subsection.18.3.4}%
+\contentsline {subsection}{\numberline {18.3.5}Ground State Structure: Macroscopic Condensation vs. Fermi Sea}{266}{subsection.18.3.5}%
+\contentsline {subsubsection}{The Bose-Einstein Condensate}{266}{section*.20}%
+\contentsline {subsubsection}{The Fermi Sea and Degeneracy Pressure}{267}{section*.21}%
+\contentsline {section}{\numberline {18.4}Scattering of Identical Particles}{267}{section.18.4}%
+\contentsline {subsection}{\numberline {18.4.1}Scattering of Spinless Bosons}{267}{subsection.18.4.1}%
+\contentsline {subsection}{\numberline {18.4.2}Scattering of Spin-$1/2$ Fermions}{268}{subsection.18.4.2}%
+\contentsline {subsubsection}{Singlet Spin State ($S = 0$)}{269}{section*.22}%
+\contentsline {subsubsection}{Triplet Spin State ($S = 1$)}{269}{section*.23}%
+\contentsline {subsubsection}{Unpolarized Scattering}{269}{section*.24}%
+\contentsline {subsection}{\numberline {18.4.3}Exchange Effects in Collisions of Composite Particles}{270}{subsection.18.4.3}%
+\contentsline {subsection}{\numberline {18.4.4}Homonuclear Diatomic Molecules: Rotational Spectra}{270}{subsection.18.4.4}%
+\contentsline {subsection}{\numberline {18.4.5}Three-Fermion Systems and Mixed Symmetry}{271}{subsection.18.4.5}%
+\contentsline {section}{\numberline {18.5}Identity and Isotopic Spin}{271}{section.18.5}%
+\contentsline {subsection}{\numberline {18.5.1}The Generalized Pauli Principle for Nucleons}{271}{subsection.18.5.1}%
+\contentsline {subsection}{\numberline {18.5.2}Two-Nucleon Systems}{272}{subsection.18.5.2}%
+\contentsline {subsubsection}{Implications for Nucleon Pairs}{272}{section*.25}%
+\contentsline {subsection}{\numberline {18.5.3}The Structure of the Deuteron}{273}{subsection.18.5.3}%
+\contentsline {subsection}{\numberline {18.5.4}Identical Bosons and Pions}{273}{subsection.18.5.4}%
+\contentsline {section}{\numberline {18.6}Problems}{274}{section.18.6}%
+\contentsline {chapter}{\numberline {19}Second Quantization}{275}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Second Quantization: Introduction}{275}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Creation and Annihilation Operators}{276}{section.19.2}%
+\contentsline {subsection}{\numberline {19.2.1}Single-Level Systems}{276}{subsection.19.2.1}%
+\contentsline {subsubsection}{Bosons}{276}{section*.26}%
+\contentsline {subsubsection}{Fermions}{277}{section*.27}%
+\contentsline {subsection}{\numberline {19.2.2}Two-Level Systems and Permutation Parity}{277}{subsection.19.2.2}%
+\contentsline {subsubsection}{Two-Level Bosons}{277}{section*.28}%
+\contentsline {subsubsection}{Two-Level Fermions}{278}{section*.29}%
+\contentsline {subsection}{\numberline {19.2.3}General Discrete Basis in Fock Space}{278}{subsection.19.2.3}%
+\contentsline {subsubsection}{Bose--Einstein Statistics}{278}{section*.30}%
+\contentsline {subsubsection}{Fermi--Dirac Statistics}{279}{section*.31}%
+\contentsline {subsection}{\numberline {19.2.4}Field Operators in Continuous Space}{279}{subsection.19.2.4}%
+\contentsline {subsubsection}{Canonical Field (Anti)commutation Relations}{280}{section*.32}%
+\contentsline {subsection}{\numberline {19.2.5}Configuration-Space States and Completeness}{280}{subsection.19.2.5}%
+\contentsline {section}{\numberline {19.3}Second-Quantized Operators}{281}{section.19.3}%
+\contentsline {subsection}{\numberline {19.3.1}One-Body Operators: Density and Particle Number}{281}{subsection.19.3.1}%
+\contentsline {subsection}{\numberline {19.3.2}Kinetic Energy and Current Density}{282}{subsection.19.3.2}%
+\contentsline {subsection}{\numberline {19.3.3}Ground State of the Noninteracting Fermi Gas}{283}{subsection.19.3.3}%
+\contentsline {subsection}{\numberline {19.3.4}The One-Particle Density Matrix}{284}{subsection.19.3.4}%
+\contentsline {subsubsection}{Limiting Behaviors}{284}{section*.33}%
+\contentsline {section}{\numberline {19.4}Pair Correlation Functions}{284}{section.19.4}%
+\contentsline {subsection}{\numberline {19.4.1}Definition of the Pair Correlation Function}{285}{subsection.19.4.1}%
+\contentsline {subsection}{\numberline {19.4.2}Pair Correlations in the Ideal Fermi Gas}{285}{subsection.19.4.2}%
+\contentsline {subsubsection}{Opposite Spins ($s \neq s'$)}{285}{section*.34}%
+\contentsline {subsubsection}{Parallel Spins ($s = s'$)}{286}{section*.35}%
+\contentsline {subsubsection}{Physical Consequences of the Exchange Hole}{286}{section*.36}%
+\contentsline {subsection}{\numberline {19.4.3}Hartree--Fock Factorization (Wick's Theorem)}{286}{subsection.19.4.3}%
+\contentsline {subsection}{\numberline {19.4.4}Pair Correlations for Bosons: Bose Bunching}{287}{subsection.19.4.4}%
+\contentsline {subsubsection}{Special Case: Pure Condensate State}{287}{section*.37}%
+\contentsline {subsubsection}{Thermal or Broad Momentum Distribution}{287}{section*.38}%
+\contentsline {section}{\numberline {19.5}The Hanbury Brown and Twiss Experiment}{288}{section.19.5}%
+\contentsline {subsection}{\numberline {19.5.1}Experimental Configuration}{288}{subsection.19.5.1}%
+\contentsline {subsection}{\numberline {19.5.2}Classical Wave Optics Interpretation}{288}{subsection.19.5.2}%
+\contentsline {subsection}{\numberline {19.5.3}Quantum Two-Photon Interference Interpretation}{289}{subsection.19.5.3}%
+\contentsline {subsection}{\numberline {19.5.4}The Fermionic Analogue: Antibunching}{290}{subsection.19.5.4}%
+\contentsline {section}{\numberline {19.6}The Many-Body Hamiltonian}{290}{section.19.6}%
+\contentsline {subsection}{\numberline {19.6.1}The Two-Body Interaction Operator}{290}{subsection.19.6.1}%
+\contentsline {subsection}{\numberline {19.6.2}Ground State Energy of the Interacting Fermi Gas}{291}{subsection.19.6.2}%
+\contentsline {subsubsection}{Zero-Order Energy: Kinetic Contribution}{291}{section*.39}%
+\contentsline {subsubsection}{First-Order Energy: Hartree and Fock Contributions}{291}{section*.40}%
+\contentsline {subsection}{\numberline {19.6.3}The Electron Gas in the Jellium Model}{292}{subsection.19.6.3}%
+\contentsline {subsubsection}{Wigner--Seitz Parameterization}{292}{section*.41}%
+\contentsline {subsubsection}{Correlation Energy}{293}{section*.42}%
+\contentsline {subsection}{\numberline {19.6.4}Interaction Hamiltonian in Momentum Space}{293}{subsection.19.6.4}%
+\contentsline {subsection}{\numberline {19.6.5}Heisenberg Equations of Motion for Field Operators}{293}{subsection.19.6.5}%
+\contentsline {section}{\numberline {19.7}Problems}{294}{section.19.7}%
+\contentsline {chapter}{\numberline {20}Atoms}{297}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Atoms}{297}{section.20.1}%
+\contentsline {section}{\numberline {20.2}Two-Electron Atoms}{297}{section.20.2}%
+\contentsline {subsection}{\numberline {20.2.1}First-Order Perturbation Theory}{298}{subsection.20.2.1}%
+\contentsline {subsection}{\numberline {20.2.2}Variational Method and Screening}{299}{subsection.20.2.2}%
+\contentsline {section}{\numberline {20.3}The Hartree Approximation}{300}{section.20.3}%
+\contentsline {subsection}{\numberline {20.3.1}The Hartree Product and Self-Consistent Field}{300}{subsection.20.3.1}%
+\contentsline {subsection}{\numberline {20.3.2}Central-Field Approximation and Total Energy}{301}{subsection.20.3.2}%
+\contentsline {section}{\numberline {20.4}The Thomas-Fermi Approximation}{301}{section.20.4}%
+\contentsline {subsection}{\numberline {20.4.1}Semiclassical Local Fermi Gas Formulation}{302}{subsection.20.4.1}%
+\contentsline {subsection}{\numberline {20.4.2}The Thomas-Fermi Equation}{302}{subsection.20.4.2}%
+\contentsline {subsection}{\numberline {20.4.3}Physical Implications and Limitations}{303}{subsection.20.4.3}%
+\contentsline {section}{\numberline {20.5}The Hartree-Fock Approximation}{304}{section.20.5}%
+\contentsline {subsection}{\numberline {20.5.1}Total Energy and the Exchange Interaction}{304}{subsection.20.5.1}%
+\contentsline {subsection}{\numberline {20.5.2}The Hartree-Fock Equations and Koopmans' Theorem}{305}{subsection.20.5.2}%
+\contentsline {subsection}{\numberline {20.5.3}Shell Structure and Electron Configurations}{306}{subsection.20.5.3}%
+\contentsline {subsection}{\numberline {20.5.4}The Aufbau Principle Across the Rows}{307}{subsection.20.5.4}%
+\contentsline {section}{\numberline {20.6}The Periodic Table and Chemical Periodicity}{307}{section.20.6}%
+\contentsline {subsection}{\numberline {20.6.1}Noble Gases (Inert Gases)}{307}{subsection.20.6.1}%
+\contentsline {subsection}{\numberline {20.6.2}Alkali Metals}{308}{subsection.20.6.2}%
+\contentsline {subsection}{\numberline {20.6.3}Halogens}{308}{subsection.20.6.3}%
+\contentsline {section}{\numberline {20.7}Splitting of Configurations and LS Coupling}{308}{section.20.7}%
+\contentsline {subsection}{\numberline {20.7.1}Russell-Saunders (LS) Coupling}{308}{subsection.20.7.1}%
+\contentsline {subsection}{\numberline {20.7.2}Classification of Terms for Equivalent Electrons}{309}{subsection.20.7.2}%
+\contentsline {subsection}{\numberline {20.7.3}Hund's Rules}{310}{subsection.20.7.3}%
+\contentsline {paragraph}{Physical Origin of Hund's Rules.}{310}{section*.43}%
+\contentsline {subsection}{\numberline {20.7.4}Ground-State Determinations Across the $2\mathrm {p}$ Shell}{310}{subsection.20.7.4}%
+\contentsline {subsection}{\numberline {20.7.5}Multideterminant Representation of Terms}{311}{subsection.20.7.5}%
+\contentsline {section}{\numberline {20.8}Spin-Orbit Interaction and Landé's Interval Rule}{311}{section.20.8}%
+\contentsline {subsection}{\numberline {20.8.1}Effective Hamiltonian via the Wigner-Eckart Theorem}{311}{subsection.20.8.1}%
+\contentsline {subsection}{\numberline {20.8.2}Fine-Structure Splitting and Landé's Interval Rule}{312}{subsection.20.8.2}%
+\contentsline {section}{\numberline {20.9}Spin-Orbit Splitting in the Hartree-Fock Approximation}{312}{section.20.9}%
+\contentsline {subsection}{\numberline {20.9.1}Central-Field Spin-Orbit Operator}{313}{subsection.20.9.1}%
+\contentsline {subsection}{\numberline {20.9.2}Matrix Elements within an $LS$ Multiplet}{313}{subsection.20.9.2}%
+\contentsline {subsection}{\numberline {20.9.3}Regular vs.\ Inverted Multiplets}{313}{subsection.20.9.3}%
+\contentsline {paragraph}{Case 1: Subshell less than half-filled ($k \le 2l + 1$).}{314}{section*.44}%
+\contentsline {paragraph}{Case 2: Subshell more than half-filled ($k > 2l + 1$).}{314}{section*.45}%
+\contentsline {paragraph}{Case 3: Exactly half-filled subshell ($k = 2l + 1$).}{314}{section*.46}%
+\contentsline {subsection}{\numberline {20.9.4}Magnitude and the Transition to $jj$-Coupling}{314}{subsection.20.9.4}%
+\contentsline {section}{\numberline {20.10}The Zeeman Effect and the Paschen-Back Effect}{315}{section.20.10}%
+\contentsline {subsection}{\numberline {20.10.1}Weak-Field Zeeman Effect and the Landé $g$-Factor}{315}{subsection.20.10.1}%
+\contentsline {subsection}{\numberline {20.10.2}Strong-Field Regime: The Paschen-Back Effect}{316}{subsection.20.10.2}%
+\contentsline {subsection}{\numberline {20.10.3}Intermediate and Ultra-Strong Fields}{316}{subsection.20.10.3}%
+\contentsline {section}{\numberline {20.11}Problems}{317}{section.20.11}%
+\contentsline {chapter}{\numberline {21}Molecules}{319}{chapter.21}%
+\contentsline {section}{\numberline {21.1}Molecules: Energy Hierarchy and Separation of Scales}{319}{section.21.1}%
+\contentsline {subsection}{\numberline {21.1.1}Hierarchy of Molecular Energy Scales}{319}{subsection.21.1.1}%
+\contentsline {subsection}{\numberline {21.1.2}Rotational Degrees of Freedom}{320}{subsection.21.1.2}%
+\contentsline {subsection}{\numberline {21.1.3}Summary of Molecular Scales}{321}{subsection.21.1.3}%
+\contentsline {section}{\numberline {21.2}The Born-Oppenheimer Method and the $\text {H}_2^+$ Molecular Ion}{321}{section.21.2}%
+\contentsline {subsection}{\numberline {21.2.1}The Adiabatic Decomposition}{321}{subsection.21.2.1}%
+\contentsline {subsection}{\numberline {21.2.2}Validity of the Born-Oppenheimer Approximation}{322}{subsection.21.2.2}%
+\contentsline {subsection}{\numberline {21.2.3}The $\text {H}_2^+$ Ion: Molecular Orbitals and LCAO Approximation}{323}{subsection.21.2.3}%
+\contentsline {subsection}{\numberline {21.2.4}Bonding Versus Antibonding Orbitals}{324}{subsection.21.2.4}%
+\contentsline {subsection}{\numberline {21.2.5}Asymptotic Limits and United-Atom Behavior}{325}{subsection.21.2.5}%
+\contentsline {subsection}{\numberline {21.2.6}Muon-Catalyzed Fusion}{325}{subsection.21.2.6}%
+\contentsline {section}{\numberline {21.3}The Neutral Hydrogen Molecule $\text {H}_2$}{325}{section.21.3}%
+\contentsline {subsection}{\numberline {21.3.1}Molecular Orbital Versus Valence Bond Formulations}{325}{subsection.21.3.1}%
+\contentsline {subsubsection}{1. The Molecular Orbital (MO) Approach}{326}{section*.47}%
+\contentsline {subsubsection}{2. The Valence Bond (Heitler-London) Approach}{326}{section*.48}%
+\contentsline {subsection}{\numberline {21.3.2}Evaluation of the Heitler-London Energy Curves}{326}{subsection.21.3.2}%
+\contentsline {subsection}{\numberline {21.3.3}Physical Mechanism of Chemical Binding}{327}{subsection.21.3.3}%
+\contentsline {subsection}{\numberline {21.3.4}Limiting Behaviors: United Atom and Van der Waals Dispersion}{327}{subsection.21.3.4}%
+\contentsline {section}{\numberline {21.4}Pairing of Electrons, Saturation of Covalent Bonds, and Closed-Shell Repulsion}{328}{section.21.4}%
+\contentsline {subsection}{\numberline {21.4.1}Why Helium and Hydrogen Do Not Form a Bound Molecule}{328}{subsection.21.4.1}%
+\contentsline {subsection}{\numberline {21.4.2}Slater Determinant Analysis of Closed-Shell Repulsion}{328}{subsection.21.4.2}%
+\contentsline {subsection}{\numberline {21.4.3}Electron Pairing, Chemical Inertness, and Valence}{329}{subsection.21.4.3}%
+\contentsline {subsection}{\numberline {21.4.4}Saturation of Covalent Bonds}{329}{subsection.21.4.4}%
+\contentsline {section}{\numberline {21.5}Spatially Directed Orbitals: $\sigma $ and $\pi $ Bonds}{329}{section.21.5}%
+\contentsline {subsection}{\numberline {21.5.1}Cartesian $p$-Orbitals}{330}{subsection.21.5.1}%
+\contentsline {subsection}{\numberline {21.5.2}Formation of $\sigma $ and $\pi $ Molecular Bonds}{330}{subsection.21.5.2}%
+\contentsline {subsection}{\numberline {21.5.3}Multiple Bonding in Homonuclear Diatomics}{330}{subsection.21.5.3}%
+\contentsline {subsubsection}{Carbon ($\text {C}_2$)}{331}{section*.49}%
+\contentsline {subsubsection}{Nitrogen ($\text {N}_2$)}{331}{section*.50}%
+\contentsline {subsection}{\numberline {21.5.4}Paramagnetism of Molecular Oxygen ($\text {O}_2$)}{331}{subsection.21.5.4}%
+\contentsline {section}{\numberline {21.6}Orbital Hybridization, Molecular Geometry, and Hydrogen Bonding}{331}{section.21.6}%
+\contentsline {subsection}{\numberline {21.6.1}Principles of Hybridization: The $\text {Li}_2$ Molecule}{332}{subsection.21.6.1}%
+\contentsline {subsection}{\numberline {21.6.2}Tetrahedral $sp^3$ Hybridization}{332}{subsection.21.6.2}%
+\contentsline {subsection}{\numberline {21.6.3}Molecular Geometries: $\text {H}_2\text {O}$ and $\text {NH}_3$}{333}{subsection.21.6.3}%
+\contentsline {subsubsection}{The Water Molecule ($\text {H}_2\text {O}$)}{333}{section*.51}%
+\contentsline {subsubsection}{Ammonia ($\text {NH}_3$) and Inversion Tunneling}{333}{section*.52}%
+\contentsline {subsection}{\numberline {21.6.4}Hydrogen Bonding and the Physics of Liquid Water}{334}{subsection.21.6.4}%
+\contentsline {section}{\numberline {21.7}Hydrocarbons: Hybridization Schemes and Delocalized $\pi $-Systems}{334}{section.21.7}%
+\contentsline {subsection}{\numberline {21.7.1}Tetrahedral $sp^3$ Carbon: Alkanes ($\text {CH}_4$)}{334}{subsection.21.7.1}%
+\contentsline {subsection}{\numberline {21.7.2}Trigonal $sp^2$ Carbon: Alkenes ($\text {C}_2\text {H}_4$)}{335}{subsection.21.7.2}%
+\contentsline {subsection}{\numberline {21.7.3}Linear $sp$ Carbon: Alkynes ($\text {C}_2\text {H}_2$)}{335}{subsection.21.7.3}%
+\contentsline {subsection}{\numberline {21.7.4}Delocalized $\pi $-Systems and Aromaticity: Benzene ($\text {C}_6\text {H}_6$)}{335}{subsection.21.7.4}%
+\contentsline {chapter}{\numberline {22}Relativistic Spin Zero Particles Klein Gordon Equation}{337}{chapter.22}%
+\contentsline {section}{\numberline {22.1}Relativistic Spin-Zero Particles: Klein-Gordon Equation}{337}{section.22.1}%
+\contentsline {subsection}{\numberline {22.1.1}Heuristic Motivation and Nonlocality}{337}{subsection.22.1.1}%
+\contentsline {subsection}{\numberline {22.1.2}The Klein-Gordon Equation}{338}{subsection.22.1.2}%
+\contentsline {subsection}{\numberline {22.1.3}Physical Peculiarities: Negative Energies and Conserved Current}{339}{subsection.22.1.3}%
+\contentsline {chapter}{\numberline {23}Relativistic Spin Zero Particles}{341}{chapter.23}%
+\contentsline {section}{\numberline {23.1}Negative Energy States and Antiparticles}{341}{section.23.1}%
+\contentsline {subsection}{\numberline {23.1.1}Positive-Energy Solutions and Lorentz Covariance}{341}{subsection.23.1.1}%
+\contentsline {subsection}{\numberline {23.1.2}Negative-Energy States and Antiparticle Interpretation}{342}{subsection.23.1.2}%
+\contentsline {subsection}{\numberline {23.1.3}Charge Conjugation and Normalization}{342}{subsection.23.1.3}%
+\contentsline {section}{\numberline {23.2}First-Order Klein-Gordon Equation}{343}{section.23.2}%
+\contentsline {subsection}{\numberline {23.2.1}The Feshbach-Villars Representation}{343}{subsection.23.2.1}%
+\contentsline {subsection}{\numberline {23.2.2}Indefinite Metric and Generalized Hermiticity}{344}{subsection.23.2.2}%
+\contentsline {subsection}{\numberline {23.2.3}Charge Conjugation}{345}{subsection.23.2.3}%
+\contentsline {subsection}{\numberline {23.2.4}Free-Particle Plane Waves and Completeness}{345}{subsection.23.2.4}%
+\contentsline {section}{\numberline {23.3}Free-Particle Wave Packets and Localization}{346}{section.23.3}%
+\contentsline {subsection}{\numberline {23.3.1}Wave Packet Propagation and Group Velocity}{346}{subsection.23.3.1}%
+\contentsline {subsection}{\numberline {23.3.2}Impossibility of Exact Single-Particle Localization}{347}{subsection.23.3.2}%
+\contentsline {subsection}{\numberline {23.3.3}The Position Operator: Even and Odd Decompositions}{347}{subsection.23.3.3}%
+\contentsline {section}{\numberline {23.4}Klein's Paradox and Pair Production}{348}{section.23.4}%
+\contentsline {subsection}{\numberline {23.4.1}Scattering by an Electrostatic Step Barrier}{348}{subsection.23.4.1}%
+\contentsline {subsection}{\numberline {23.4.2}The Three Potential Regimes}{349}{subsection.23.4.2}%
+\contentsline {subsection}{\numberline {23.4.3}Resolution of Klein's Paradox: Pair Creation}{349}{subsection.23.4.3}%
+\contentsline {subsection}{\numberline {23.4.4}Wave Packet Perturbations and Zitterbewegung}{350}{subsection.23.4.4}%
+\contentsline {section}{\numberline {23.5}Scattering by a Potential and Stimulated Pair Production}{351}{section.23.5}%
+\contentsline {subsection}{\numberline {23.5.1}Born Approximation for Positive-Energy Scattering}{351}{subsection.23.5.1}%
+\contentsline {subsection}{\numberline {23.5.2}Transitions to Negative-Energy States and Stimulated Pair Production}{352}{subsection.23.5.2}%
+\contentsline {section}{\numberline {23.6}Bound-State Problems: The Relativistic Coulomb Potential}{353}{section.23.6}%
+\contentsline {subsection}{\numberline {23.6.1}Stationary States and Vacuum Polarization}{353}{subsection.23.6.1}%
+\contentsline {subsection}{\numberline {23.6.2}Exact Solution for the Pionic Hydrogen-Like Atom}{353}{subsection.23.6.2}%
+\contentsline {subsection}{\numberline {23.6.3}Energy Eigenvalues and Fine Structure}{354}{subsection.23.6.3}%
+\contentsline {subsection}{\numberline {23.6.4}Fall to the Center and Critical Coupling}{355}{subsection.23.6.4}%
+\contentsline {section}{\numberline {23.7}Nonrelativistic Limit and Relativistic Corrections}{355}{section.23.7}%
+\contentsline {subsection}{\numberline {23.7.1}Systematic Elimination of the Small Component}{355}{subsection.23.7.1}%
+\contentsline {subsection}{\numberline {23.7.2}Leading Relativistic Hamiltonian}{356}{subsection.23.7.2}%
+\contentsline {subsection}{\numberline {23.7.3}Orbital Magnetic Moment in a Uniform Field}{356}{subsection.23.7.3}%
+\contentsline {section}{\numberline {23.8}Scalar Interactions}{357}{section.23.8}%
+\contentsline {subsection}{\numberline {23.8.1}Covariant Formulation of Scalar Potentials}{357}{subsection.23.8.1}%
+\contentsline {subsection}{\numberline {23.8.2}Stationary Bound States in a Static Scalar Potential}{357}{subsection.23.8.2}%
+\contentsline {section}{\numberline {23.9}Neutral Particles and Real Scalar Fields}{358}{section.23.9}%
+\contentsline {subsection}{\numberline {23.9.1}Non-Self-Conjugate Neutral Particles}{358}{subsection.23.9.1}%
+\contentsline {subsection}{\numberline {23.9.2}Truly Neutral (Self-Conjugate) Particles}{358}{subsection.23.9.2}%
+\contentsline {section}{\numberline {23.10}Problems}{359}{section.23.10}%
+\contentsline {chapter}{\numberline {24}Relativistic Spin 12 Particles Dirac Equation}{361}{chapter.24}%
+\contentsline {section}{\numberline {24.1}Relativistic Spin-1/2 Particles: Dirac Equation}{361}{section.24.1}%
+\contentsline {chapter}{\numberline {25}Relativistic Spin Vz Particles Dirac Equation 534}{363}{chapter.25}%
+\contentsline {section}{\numberline {25.1}CONTENTS xi}{363}{section.25.1}%
+\contentsline {section}{\numberline {25.2}Lorentz Transformation of Spin and the Dirac Algebra}{363}{section.25.2}%
+\contentsline {subsection}{\numberline {25.2.1}Spin as a Second-Rank Spacetime Tensor}{363}{subsection.25.2.1}%
+\contentsline {subsection}{\numberline {25.2.2}Algebraic Properties of the Internal Operators}{364}{subsection.25.2.2}%
+\contentsline {subsection}{\numberline {25.2.3}Parity and the Four-Dimensional Representation}{365}{subsection.25.2.3}%
+\contentsline {subsection}{\numberline {25.2.4}Finite Lorentz Transformations}{366}{subsection.25.2.4}%
+\contentsline {subsection}{\numberline {25.2.5}The Dirac Gamma Matrices and Clifford Algebra}{366}{subsection.25.2.5}%
+\contentsline {subsection}{\numberline {25.2.6}Basis of the Clifford Algebra}{367}{subsection.25.2.6}%
+\contentsline {section}{\numberline {25.3}The Dirac Equation and the Electron $g$-Factor}{367}{section.25.3}%
+\contentsline {subsection}{\numberline {25.3.1}Derivation of the Free Dirac Equation}{367}{subsection.25.3.1}%
+\contentsline {subsection}{\numberline {25.3.2}Electromagnetic Coupling and the Nonrelativistic Limit: Origin of $g = 2$}{368}{subsection.25.3.2}%
+\contentsline {subsection}{\numberline {25.3.3}Conserved Probability Current}{369}{subsection.25.3.3}%
+\contentsline {subsection}{\numberline {25.3.4}Lorentz Transformation of the Wave Function}{369}{subsection.25.3.4}%
+\contentsline {section}{\numberline {25.4}Free-Particle Solutions of the Dirac Equation}{370}{section.25.4}%
+\contentsline {subsection}{\numberline {25.4.1}Solutions in the Rest Frame and Intrinsic Parity}{370}{subsection.25.4.1}%
+\contentsline {subsection}{\numberline {25.4.2}Boosted Spinors for Arbitrary Momentum}{370}{subsection.25.4.2}%
+\contentsline {subsection}{\numberline {25.4.3}Orthogonality, Dirac Adjoint, and Completeness}{371}{subsection.25.4.3}%
+\contentsline {section}{\numberline {25.5}Dirac Currents and the Gordon Decomposition}{372}{section.25.5}%
+\contentsline {subsection}{\numberline {25.5.1}Covariant Bilinears and Probability Conservation}{372}{subsection.25.5.1}%
+\contentsline {subsection}{\numberline {25.5.2}The Velocity Operator and Zitterbewegung}{373}{subsection.25.5.2}%
+\contentsline {subsection}{\numberline {25.5.3}The Gordon Decomposition}{373}{subsection.25.5.3}%
+\contentsline {section}{\numberline {25.6}Nonrelativistic Limit: Fine-Structure Hamiltonian, Darwin Term, and Thomas Precession}{374}{section.25.6}%
+\contentsline {subsection}{\numberline {25.6.1}Iterative Solution for the Small Component}{374}{subsection.25.6.1}%
+\contentsline {subsection}{\numberline {25.6.2}Norm Conservation and the Foldy-Wouthuysen Transformation}{375}{subsection.25.6.2}%
+\contentsline {subsection}{\numberline {25.6.3}Physical Identification of Relativistic Corrections}{375}{subsection.25.6.3}%
+\contentsline {subsection}{\numberline {25.6.4}Thomas Precession and the Spin-Orbit Coupling}{376}{subsection.25.6.4}%
+\contentsline {section}{\numberline {25.7}The Second-Order Dirac Equation and Pauli Moment Coupling}{376}{section.25.7}%
+\contentsline {subsection}{\numberline {25.7.1}Derivation of the Second-Order Equation}{376}{subsection.25.7.1}%
+\contentsline {subsection}{\numberline {25.7.2}Relativistic Interpretation and Pauli Coupling}{377}{subsection.25.7.2}%
+\contentsline {subsection}{\numberline {25.7.3}Projection onto the First-Order Dirac Space}{378}{subsection.25.7.3}%
+\contentsline {section}{\numberline {25.8}The Dirac Hydrogen Atom: Exact Spectrum, Fine Structure, and Hidden Symmetry}{378}{section.25.8}%
+\contentsline {subsection}{\numberline {25.8.1}Reduction to a Radial Klein-Gordon Problem}{379}{subsection.25.8.1}%
+\contentsline {subsection}{\numberline {25.8.2}The Dirac Angular Momentum Operator $K$}{379}{subsection.25.8.2}%
+\contentsline {subsection}{\numberline {25.8.3}The Martin-Glauber Auxiliary Operator $\Lambda $}{380}{subsection.25.8.3}%
+\contentsline {subsection}{\numberline {25.8.4}Energy Eigenvalues: The Sommerfeld-Dirac Formula}{380}{subsection.25.8.4}%
+\contentsline {subsection}{\numberline {25.8.5}Physical Classification and Fine-Structure Splitting}{381}{subsection.25.8.5}%
+\contentsline {subsection}{\numberline {25.8.6}Accidental Degeneracy and the Johnson-Lippmann Symmetry Operator}{381}{subsection.25.8.6}%
+\contentsline {section}{\numberline {25.9}Hyperfine Structure and the 21-cm Hydrogen Line}{381}{section.25.9}%
+\contentsline {subsection}{\numberline {25.9.1}The Nuclear Magnetic Dipole Interaction}{382}{subsection.25.9.1}%
+\contentsline {subsection}{\numberline {25.9.2}Fermi Contact Interaction in $s$-States}{382}{subsection.25.9.2}%
+\contentsline {subsection}{\numberline {25.9.3}Hyperfine Multiplets and the 21-Centimeter Line}{383}{subsection.25.9.3}%
+\contentsline {section}{\numberline {25.10}The Lamb Shift, Mass Renormalization, and Radiative Corrections}{384}{section.25.10}%
+\contentsline {subsection}{\numberline {25.10.1}Second-Order Radiative Perturbation Theory}{384}{subsection.25.10.1}%
+\contentsline {subsection}{\numberline {25.10.2}Free-Electron Self-Energy and Mass Renormalization}{385}{subsection.25.10.2}%
+\contentsline {subsection}{\numberline {25.10.3}Bethe's Evaluation and the Oscillator Sum Rule}{385}{subsection.25.10.3}%
+\contentsline {subsection}{\numberline {25.10.4}Physical Picture and the Lamb-Retherford Experiment}{386}{subsection.25.10.4}%
+\contentsline {section}{\numberline {25.11}Dirac Hole Theory, Charge Conjugation, and the Spin-Statistics Connection}{387}{section.25.11}%
+\contentsline {subsection}{\numberline {25.11.1}The Dirac Sea and Positrons as Holes}{387}{subsection.25.11.1}%
+\contentsline {subsection}{\numberline {25.11.2}Vacuum Subtraction and Observable Currents}{388}{subsection.25.11.2}%
+\contentsline {subsection}{\numberline {25.11.3}Charge Conjugation}{388}{subsection.25.11.3}%
+\contentsline {subsection}{\numberline {25.11.4}Vacuum Polarization and Relativistic Many-Body Effects}{389}{subsection.25.11.4}%
+\contentsline {subsection}{\numberline {25.11.5}The Spin-Statistics Connection}{389}{subsection.25.11.5}%
+\contentsline {section}{\numberline {25.12}Problems}{390}{section.25.12}%
+\contentsline {section}{\numberline {25.13}Index}{391}{section.25.13}%
