@@ -183,7 +183,7 @@ def query(q: str, max_tokens: int = 6000, top_n: int = 10, hops: int = 1) -> str
     ranked = sorted(zip(scores, index), key=lambda x: x[0], reverse=True)
 
     # Stage A: top N by BM25
-    top_ids = [doc['note_id'] for score, doc in ranked[:top_n] if score > 0]
+    top_ids = [doc['note_id'] for _, doc in ranked[:top_n] if _.  > 0]
 
     # Stage B: graph expansion
     graph = load_graph()
@@ -239,3 +239,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
