@@ -1,0 +1,113 @@
+# Digital Garden Topic Taxonomy
+# This file defines the canonical topic hierarchy.
+# Every garden note's `topic_path` must use values from this tree.
+# Format: top_level > sub_level > leaf_level
+
+topics:
+  quantum_mechanics:
+    label: "Quantum Mechanics"
+    subtopics:
+      operators:
+        label: "Operators & Observables"
+        subtopics:
+          hermitian_operators: "Hermitian & Self-Adjoint Operators"
+          unitary_operators: "Unitary Operators"
+          projection_operators: "Projectors & Resolutions of Identity"
+          angular_momentum: "Angular Momentum Operators"
+          creation_annihilation: "Creation & Annihilation Operators"
+      states:
+        label: "States & Hilbert Space"
+        subtopics:
+          hilbert_space: "Hilbert Space Foundations"
+          dirac_notation: "Dirac Bra-Ket Notation"
+          density_matrix: "Density Matrices & Mixed States"
+          entanglement: "Entanglement & Separability"
+          symmetry: "Symmetries & Conservation Laws"
+      dynamics:
+        label: "Quantum Dynamics"
+        subtopics:
+          schrodinger_equation: "Schrödinger Equation"
+          pictures: "Heisenberg & Interaction Pictures"
+          time_evolution: "Time Evolution Operator"
+          perturbation_theory: "Perturbation Theory"
+          adiabatic: "Adiabatic Theorem & Berry Phase"
+      scattering:
+        label: "Scattering Theory"
+        subtopics:
+          s_matrix: "S-Matrix & Scattering Amplitudes"
+          born_approximation: "Born Approximation"
+          partial_waves: "Partial Wave Expansion"
+          resonances: "Resonances & Breit-Wigner"
+          optical_theorem: "Optical Theorem"
+      potentials:
+        label: "Potential Problems"
+        subtopics:
+          one_dimensional: "1D Potential Problems"
+          tunneling: "Tunneling & WKB"
+          central_force: "Central Force Problems"
+          periodic: "Periodic Potentials & Band Structure"
+      measurement:
+        label: "Measurement & Interpretation"
+        subtopics:
+          born_rule: "Born Rule & Probability"
+          uncertainty: "Uncertainty Relations"
+          compatible_observables: "Compatible Observables & Commutators"
+      examples:
+        label: "Canonical Examples"
+        subtopics:
+          free_particle: "Free Particle"
+          harmonic_oscillator: "Harmonic Oscillator"
+          hydrogen_atom: "Hydrogen Atom"
+          infinite_square_well: "Infinite Square Well"
+          spin_half: "Spin-1/2 Systems"
+
+  condensed_matter:
+    label: "Condensed Matter Physics"
+    subtopics:
+      periodic_potentials:
+        label: "Periodic Potentials & Bloch Theory"
+        subtopics:
+          bloch_theorem: "Bloch's Theorem"
+          band_structure: "Band Structure & Brillouin Zones"
+          effective_mass: "Effective Mass Tensor"
+          kronig_penney: "Kronig-Penney Model"
+      magnetism:
+        label: "Magnetism & Spin Systems"
+        subtopics:
+          heisenberg_model: "Heisenberg Model"
+          hubbard_model: "Hubbard Model"
+          mean_field: "Mean-Field Theory"
+          spin_waves: "Spin Waves & Magnons"
+      correlations:
+        label: "Electron Correlations"
+        subtopics:
+          fermi_liquid: "Fermi Liquid Theory"
+          mott_insulator: "Mott Insulators"
+          green_functions: "Green's Functions"
+      examples:
+        label: "Canonical Examples"
+        subtopics:
+          free_electron_gas: "Free Electron Gas"
+          tight_binding: "Tight-Binding Model"
+
+  mathematical_physics:
+    label: "Mathematical Physics"
+    subtopics:
+      linear_algebra:
+        label: "Linear Algebra"
+        subtopics:
+          inner_product_spaces: "Inner Product Spaces"
+          spectral_theory: "Spectral Theory"
+          functional_analysis: "Functional Analysis"
+      group_theory:
+        label: "Group Theory & Representations"
+        subtopics:
+          lie_groups: "Lie Groups & Lie Algebras"
+          representation_theory: "Representation Theory"
+          symmetry_groups: "Physical Symmetry Groups"
+      differential_equations:
+        label: "Differential Equations"
+        subtopics:
+          ordinary: "ODEs in Physics"
+          partial: "PDEs in Physics"
+          greens_functions: "Green's Functions"
