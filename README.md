@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This project has been migrated and archived.**
+> All development has moved to the unified monorepo: [lufreitas0000/nexus-engine](https://github.com/lufreitas0000/nexus-engine)
+
 # PDF Ingestion Pipeline
 
 A multi-stage agentic pipeline for ingesting academic physics textbooks from raw PDF into verified, modernized Markdown and LaTeX.
